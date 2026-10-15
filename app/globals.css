@@ -1,26 +1,167 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-primary: #c7d2fe;
+  --bg-secondary: rgba(255, 255, 255, 0.25);
+  --bg-tertiary: rgba(255, 255, 255, 0.3);
+  --bg-card: rgba(255, 255, 255, 0.25);
+
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-tertiary: #64748b;
+
+  --accent: #6366f1;
+  --accent-hover: #4f46e5;
+  --accent-dim: rgba(224, 231, 255, 0.5);
+
+  --success: #059669;
+  --success-dim: rgba(209, 250, 229, 0.5);
+  --warning: #d97706;
+  --warning-dim: rgba(254, 243, 199, 0.5);
+  --danger: #dc2626;
+  --danger-dim: rgba(254, 226, 226, 0.5);
+
+  --border: rgba(255, 255, 255, 0.45);
+  --border-strong: rgba(255, 255, 255, 0.6);
+
+  --shadow-color: rgba(0, 0, 0, 0.06);
+  --glass-shadow:
+    0 8px 32px rgba(31, 38, 135, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.1);
+  --glass-blur: blur(18px) saturate(180%);
+
+  --mesh-gradient:
+    radial-gradient(ellipse 80% 60% at 10% 10%, rgba(99, 102, 241, 0.45) 0%, transparent 60%),
+    radial-gradient(ellipse 70% 50% at 90% 85%, rgba(236, 72, 153, 0.35) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 60% at 50% 40%, rgba(59, 130, 246, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse 50% 40% at 85% 15%, rgba(34, 211, 238, 0.2) 0%, transparent 50%),
+    radial-gradient(ellipse 40% 50% at 20% 80%, rgba(168, 85, 247, 0.2) 0%, transparent 50%);
+}
+
+.dark {
+  --bg-primary: #0a0a1a;
+  --bg-secondary: rgba(255, 255, 255, 0.06);
+  --bg-tertiary: rgba(255, 255, 255, 0.08);
+  --bg-card: rgba(255, 255, 255, 0.06);
+
+  --text-primary: #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --text-tertiary: #64748b;
+
+  --accent: #818cf8;
+  --accent-hover: #a5b4fc;
+  --accent-dim: rgba(99, 102, 241, 0.2);
+
+  --success: #34d399;
+  --success-dim: rgba(52, 211, 153, 0.15);
+  --warning: #fbbf24;
+  --warning-dim: rgba(251, 191, 36, 0.15);
+  --danger: #f87171;
+  --danger-dim: rgba(248, 113, 113, 0.15);
+
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.15);
+
+  --shadow-color: rgba(0, 0, 0, 0.5);
+  --glass-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.02);
+  --glass-blur: blur(20px) saturate(150%);
+
+  --mesh-gradient:
+    radial-gradient(ellipse 80% 60% at 10% 10%, rgba(99, 102, 241, 0.35) 0%, transparent 60%),
+    radial-gradient(ellipse 70% 50% at 90% 85%, rgba(139, 92, 246, 0.25) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 60% at 50% 40%, rgba(59, 130, 246, 0.18) 0%, transparent 50%),
+    radial-gradient(ellipse 50% 40% at 85% 15%, rgba(34, 211, 238, 0.12) 0%, transparent 50%),
+    radial-gradient(ellipse 40% 50% at 20% 80%, rgba(168, 85, 247, 0.15) 0%, transparent 50%);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-surface: var(--bg-primary);
+  --color-surface-raised: var(--bg-card);
+  --color-surface-dim: var(--bg-secondary);
+  --color-surface-inset: var(--bg-tertiary);
+
+  --color-content: var(--text-primary);
+  --color-content-dim: var(--text-secondary);
+  --color-content-muted: var(--text-tertiary);
+
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-dim: var(--accent-dim);
+
+  --color-success: var(--success);
+  --color-success-dim: var(--success-dim);
+  --color-warning: var(--warning);
+  --color-warning-dim: var(--warning-dim);
+  --color-danger: var(--danger);
+  --color-danger-dim: var(--danger-dim);
+
+  --color-edge: var(--border);
+  --color-edge-strong: var(--border-strong);
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  color-scheme: light;
+  background-color: var(--bg-primary);
+}
+
+.dark {
+  color-scheme: dark;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bg-primary);
+  background-image: var(--mesh-gradient);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
+  transition: background-color 0.3s, color 0.2s;
+  min-height: 100vh;
+}
+
+/* Glass effect for all raised surface cards */
+.bg-surface-raised {
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  box-shadow: var(--glass-shadow);
+}
+
+/* Glass inputs */
+input, select {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Tooltip glass */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  backdrop-filter: blur(16px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(16px) saturate(180%) !important;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.5);
 }

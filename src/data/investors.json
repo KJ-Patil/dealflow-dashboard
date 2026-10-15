@@ -1,0 +1,204 @@
+[
+  {
+    "id": "inv-001",
+    "name": "Rajesh Mehta",
+    "type": "Angel",
+    "riskAppetite": "Low",
+    "budgetMin": 800000,
+    "budgetMax": 5000000,
+    "preferredIndustries": [
+      "SaaS",
+      "Logistics",
+      "AgriTech",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "inv-002",
+    "name": "Priya Sharma",
+    "type": "Angel",
+    "riskAppetite": "High",
+    "budgetMin": 900000,
+    "budgetMax": 6300000,
+    "preferredIndustries": [
+      "AgriTech",
+      "Logistics",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "inv-003",
+    "name": "Vikram Reddy",
+    "type": "Angel",
+    "riskAppetite": "Low",
+    "budgetMin": 1400000,
+    "budgetMax": 4000000,
+    "preferredIndustries": [
+      "InsurTech",
+      "CleanTech",
+      "SaaS",
+      "Logistics"
+    ]
+  },
+  {
+    "id": "inv-004",
+    "name": "Anita Deshmukh",
+    "type": "Angel",
+    "riskAppetite": "High",
+    "budgetMin": 800000,
+    "budgetMax": 4200000,
+    "preferredIndustries": [
+      "SaaS",
+      "AgriTech",
+      "PropTech",
+      "Logistics"
+    ]
+  },
+  {
+    "id": "inv-005",
+    "name": "Suresh Gupta",
+    "type": "Angel",
+    "riskAppetite": "Low",
+    "budgetMin": 1400000,
+    "budgetMax": 5600000,
+    "preferredIndustries": [
+      "E-Commerce",
+      "CleanTech",
+      "Fintech",
+      "AgriTech"
+    ]
+  },
+  {
+    "id": "inv-006",
+    "name": "Vanguard India Ventures",
+    "type": "VC",
+    "riskAppetite": "Low",
+    "budgetMin": 11800000,
+    "budgetMax": 573100000,
+    "preferredIndustries": [
+      "InsurTech",
+      "AgriTech"
+    ]
+  },
+  {
+    "id": "inv-007",
+    "name": "Nexgen Capital Fund",
+    "type": "VC",
+    "riskAppetite": "Low",
+    "budgetMin": 40300000,
+    "budgetMax": 672500000,
+    "preferredIndustries": [
+      "EdTech",
+      "AgriTech",
+      "PropTech",
+      "CleanTech"
+    ]
+  },
+  {
+    "id": "inv-008",
+    "name": "Pinnacle Venture Partners",
+    "type": "VC",
+    "riskAppetite": "High",
+    "budgetMin": 19600000,
+    "budgetMax": 738400000,
+    "preferredIndustries": [
+      "CleanTech",
+      "E-Commerce",
+      "PropTech",
+      "HealthTech"
+    ]
+  },
+  {
+    "id": "inv-009",
+    "name": "BlueRock Ventures",
+    "type": "VC",
+    "riskAppetite": "Medium",
+    "budgetMin": 33500000,
+    "budgetMax": 655800000,
+    "preferredIndustries": [
+      "Fintech",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "inv-010",
+    "name": "Summit India PE",
+    "type": "PE",
+    "riskAppetite": "Medium",
+    "budgetMin": 220700000,
+    "budgetMax": 1652400000,
+    "preferredIndustries": [
+      "Logistics",
+      "HealthTech"
+    ]
+  },
+  {
+    "id": "inv-011",
+    "name": "Meridian Capital Group",
+    "type": "PE",
+    "riskAppetite": "Low",
+    "budgetMin": 168800000,
+    "budgetMax": 1964400000,
+    "preferredIndustries": [
+      "Fintech",
+      "Logistics",
+      "AgriTech",
+      "EdTech"
+    ]
+  },
+  {
+    "id": "inv-012",
+    "name": "Crestview India Fund",
+    "type": "PE",
+    "riskAppetite": "Medium",
+    "budgetMin": 217500000,
+    "budgetMax": 2153900000,
+    "preferredIndustries": [
+      "Fintech",
+      "PropTech",
+      "AgriTech",
+      "HealthTech"
+    ]
+  },
+  {
+    "id": "inv-013",
+    "name": "Kapoor Family Office",
+    "type": "Family Office",
+    "riskAppetite": "Low",
+    "budgetMin": 39700000,
+    "budgetMax": 439900000,
+    "preferredIndustries": [
+      "EdTech",
+      "CleanTech",
+      "InsurTech",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "inv-014",
+    "name": "Singhania Investments",
+    "type": "Family Office",
+    "riskAppetite": "High",
+    "budgetMin": 25700000,
+    "budgetMax": 602600000,
+    "preferredIndustries": [
+      "E-Commerce",
+      "InsurTech",
+      "HealthTech",
+      "Fintech"
+    ]
+  },
+  {
+    "id": "inv-015",
+    "name": "Thapar Capital",
+    "type": "Family Office",
+    "riskAppetite": "Low",
+    "budgetMin": 28200000,
+    "budgetMax": 809300000,
+    "preferredIndustries": [
+      "InsurTech",
+      "Logistics",
+      "Fintech"
+    ]
+  }
+]

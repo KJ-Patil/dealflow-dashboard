@@ -1,0 +1,5797 @@
+[
+  {
+    "id": "deal-001",
+    "name": "PaySetu",
+    "tagline": "AI-powered lending for the underbanked",
+    "industry": "Fintech",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 20.2,
+    "minInvestment": 8800000,
+    "targetAmount": 451400000,
+    "raisedAmount": 256700000,
+    "status": "Open",
+    "createdAt": "2025-04-09",
+    "views": 3143,
+    "company": {
+      "name": "PaySetu Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Chennai",
+      "employees": 424
+    },
+    "financials": {
+      "revenue": 215300000,
+      "growth": 36.2,
+      "ebitdaMargin": 16.5,
+      "burn": 16400000,
+      "valuation": 2089400000,
+      "runway": 15
+    },
+    "roiProjection": {
+      "conservative": [
+        13.1,
+        28,
+        44.8,
+        63.8,
+        85.3
+      ],
+      "base": [
+        20.2,
+        44.5,
+        73.7,
+        108.7,
+        150.9
+      ],
+      "optimistic": [
+        30.5,
+        70.3,
+        122.3,
+        190,
+        278.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 6,
+        "note": "Limited market penetration in tier-2/3 cities"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "Key leadership position currently unfilled"
+      },
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Go-to-market strategy untested in new regions"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Pending regulatory approval for key product"
+      }
+    ]
+  },
+  {
+    "id": "deal-002",
+    "name": "MedPulse",
+    "tagline": "AI diagnostics that save lives and time",
+    "industry": "HealthTech",
+    "stage": "Pre-Series A",
+    "risk": "Medium",
+    "roi": 15.6,
+    "minInvestment": 500000,
+    "targetAmount": 12100000,
+    "raisedAmount": 12100000,
+    "status": "Funded",
+    "createdAt": "2025-11-20",
+    "views": 1263,
+    "company": {
+      "name": "MedPulse Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Pune",
+      "employees": 32
+    },
+    "financials": {
+      "revenue": 5800000,
+      "growth": 38.2,
+      "ebitdaMargin": -0.5,
+      "burn": 3600000,
+      "valuation": 151600000,
+      "runway": 10
+    },
+    "roiProjection": {
+      "conservative": [
+        9.5,
+        19.9,
+        31.4,
+        43.9,
+        57.5
+      ],
+      "base": [
+        15.6,
+        33.6,
+        54.5,
+        78.6,
+        106.4
+      ],
+      "optimistic": [
+        21.7,
+        48.1,
+        80.2,
+        119.2,
+        166.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Revenue concentrated among top 3 clients"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Team",
+        "score": 9,
+        "note": "Key leadership position currently unfilled"
+      }
+    ]
+  },
+  {
+    "id": "deal-003",
+    "name": "LearnSphere",
+    "tagline": "AI tutoring that adapts to every student",
+    "industry": "EdTech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 10.9,
+    "minInvestment": 4800000,
+    "targetAmount": 473800000,
+    "raisedAmount": 113300000,
+    "status": "Closed",
+    "createdAt": "2026-02-04",
+    "views": 939,
+    "company": {
+      "name": "LearnSphere Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Kochi",
+      "employees": 462
+    },
+    "financials": {
+      "revenue": 337700000,
+      "growth": 30.4,
+      "ebitdaMargin": 19.9,
+      "burn": 13900000,
+      "valuation": 4647700000,
+      "runway": 20
+    },
+    "roiProjection": {
+      "conservative": [
+        7.3,
+        15.1,
+        23.5,
+        32.6,
+        42.3
+      ],
+      "base": [
+        10.9,
+        23,
+        36.4,
+        51.3,
+        67.7
+      ],
+      "optimistic": [
+        15.3,
+        32.8,
+        53.1,
+        76.5,
+        103.4
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "Legacy system migration partially complete"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Regulatory",
+        "score": 5,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "Key leadership position currently unfilled"
+      }
+    ]
+  },
+  {
+    "id": "deal-004",
+    "name": "FarmWise",
+    "tagline": "Farm-to-fork supply chain transparency",
+    "industry": "AgriTech",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 32,
+    "minInvestment": 100000,
+    "targetAmount": 6900000,
+    "raisedAmount": 1300000,
+    "status": "Closed",
+    "createdAt": "2026-02-06",
+    "views": 3514,
+    "company": {
+      "name": "FarmWise Pvt. Ltd.",
+      "founded": 2017,
+      "location": "Jaipur",
+      "employees": 16
+    },
+    "financials": {
+      "revenue": 2100000,
+      "growth": 16.5,
+      "ebitdaMargin": -10.5,
+      "burn": 1000000,
+      "valuation": 28600000,
+      "runway": 14
+    },
+    "roiProjection": {
+      "conservative": [
+        23.4,
+        52.2,
+        87.7,
+        131.6,
+        185.7
+      ],
+      "base": [
+        32,
+        74.2,
+        130,
+        203.6,
+        300.7
+      ],
+      "optimistic": [
+        44.8,
+        109.7,
+        203.6,
+        339.6,
+        536.6
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Legacy system migration partially complete"
+      },
+      {
+        "category": "Market",
+        "score": 7,
+        "note": "Seasonal demand fluctuations in core segment"
+      },
+      {
+        "category": "Execution",
+        "score": 9,
+        "note": "Product-market fit not fully validated"
+      },
+      {
+        "category": "Team",
+        "score": 6,
+        "note": "Limited experience in target market segment"
+      }
+    ]
+  },
+  {
+    "id": "deal-005",
+    "name": "GreenGrid",
+    "tagline": "EV charging network for urban India",
+    "industry": "CleanTech",
+    "stage": "Pre-Series A",
+    "risk": "Low",
+    "roi": 20,
+    "minInvestment": 1900000,
+    "targetAmount": 11200000,
+    "raisedAmount": 10000000,
+    "status": "Open",
+    "createdAt": "2025-11-03",
+    "views": 4944,
+    "company": {
+      "name": "GreenGrid Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Hyderabad",
+      "employees": 19
+    },
+    "financials": {
+      "revenue": 5100000,
+      "growth": 53.7,
+      "ebitdaMargin": -18.3,
+      "burn": 2500000,
+      "valuation": 136900000,
+      "runway": 13
+    },
+    "roiProjection": {
+      "conservative": [
+        13.8,
+        29.5,
+        47.4,
+        67.7,
+        90.9
+      ],
+      "base": [
+        20,
+        44,
+        72.8,
+        107.4,
+        148.8
+      ],
+      "optimistic": [
+        28.4,
+        64.9,
+        111.7,
+        171.8,
+        249
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Supply chain depends on single vendor"
+      },
+      {
+        "category": "Regulatory",
+        "score": 3,
+        "note": "New compliance requirements may increase costs"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "High attrition rate in engineering team"
+      },
+      {
+        "category": "Financial",
+        "score": 7,
+        "note": "Burn rate exceeds initial projections"
+      }
+    ]
+  },
+  {
+    "id": "deal-006",
+    "name": "CloudNine",
+    "tagline": "Cloud cost optimization powered by AI",
+    "industry": "SaaS",
+    "stage": "Pre-Series A",
+    "risk": "Low",
+    "roi": 23.7,
+    "minInvestment": 600000,
+    "targetAmount": 18300000,
+    "raisedAmount": 18300000,
+    "status": "Funded",
+    "createdAt": "2025-06-22",
+    "views": 3575,
+    "company": {
+      "name": "CloudNine Pvt. Ltd.",
+      "founded": 2024,
+      "location": "Mumbai",
+      "employees": 21
+    },
+    "financials": {
+      "revenue": 16600000,
+      "growth": 46.4,
+      "ebitdaMargin": -23.8,
+      "burn": 3700000,
+      "valuation": 155100000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        17.3,
+        37.6,
+        61.4,
+        89.3,
+        122.1
+      ],
+      "base": [
+        23.7,
+        53,
+        89.3,
+        134.1,
+        189.6
+      ],
+      "optimistic": [
+        34.1,
+        79.9,
+        141.3,
+        223.7,
+        334.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 5,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Regulatory",
+        "score": 8,
+        "note": "Cross-border transaction regulations evolving"
+      }
+    ]
+  },
+  {
+    "id": "deal-007",
+    "name": "ShopDesi",
+    "tagline": "Social commerce platform for creators",
+    "industry": "E-Commerce",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 19.1,
+    "minInvestment": 2900000,
+    "targetAmount": 596200000,
+    "raisedAmount": 247900000,
+    "status": "Closed",
+    "createdAt": "2026-05-06",
+    "views": 4273,
+    "company": {
+      "name": "ShopDesi Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Hyderabad",
+      "employees": 276
+    },
+    "financials": {
+      "revenue": 172900000,
+      "growth": 45.1,
+      "ebitdaMargin": 16.4,
+      "burn": 15500000,
+      "valuation": 2266800000,
+      "runway": 29
+    },
+    "roiProjection": {
+      "conservative": [
+        13,
+        27.7,
+        44.2,
+        63,
+        84.1
+      ],
+      "base": [
+        19.1,
+        41.8,
+        68.9,
+        101.2,
+        139.6
+      ],
+      "optimistic": [
+        26.7,
+        60.6,
+        103.6,
+        158,
+        227
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Regulatory",
+        "score": 7,
+        "note": "Licensing requirements under government review"
+      },
+      {
+        "category": "Team",
+        "score": 9,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "Dependency on third-party APIs for critical functions"
+      }
+    ]
+  },
+  {
+    "id": "deal-008",
+    "name": "FleetTrack",
+    "tagline": "Smart fleet management for Indian roads",
+    "industry": "Logistics",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 19.5,
+    "minInvestment": 5300000,
+    "targetAmount": 503200000,
+    "raisedAmount": 335400000,
+    "status": "Open",
+    "createdAt": "2025-09-26",
+    "views": 2245,
+    "company": {
+      "name": "FleetTrack Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Delhi NCR",
+      "employees": 381
+    },
+    "financials": {
+      "revenue": 210700000,
+      "growth": 44.1,
+      "ebitdaMargin": 0,
+      "burn": 10300000,
+      "valuation": 1420100000,
+      "runway": 21
+    },
+    "roiProjection": {
+      "conservative": [
+        11.7,
+        24.8,
+        39.4,
+        55.7,
+        73.9
+      ],
+      "base": [
+        19.5,
+        42.8,
+        70.6,
+        103.9,
+        143.7
+      ],
+      "optimistic": [
+        28.5,
+        65,
+        112,
+        172.4,
+        250
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Regulatory",
+        "score": 2,
+        "note": "Cross-border transaction regulations evolving"
+      }
+    ]
+  },
+  {
+    "id": "deal-009",
+    "name": "NestFinder",
+    "tagline": "Construction project management simplified",
+    "industry": "PropTech",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 21.6,
+    "minInvestment": 9500000,
+    "targetAmount": 487500000,
+    "raisedAmount": 487500000,
+    "status": "Funded",
+    "createdAt": "2026-04-08",
+    "views": 2767,
+    "company": {
+      "name": "NestFinder Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Jaipur",
+      "employees": 327
+    },
+    "financials": {
+      "revenue": 234500000,
+      "growth": 33,
+      "ebitdaMargin": -7.7,
+      "burn": 7300000,
+      "valuation": 1050200000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        14.7,
+        31.5,
+        50.9,
+        73,
+        98.4
+      ],
+      "base": [
+        21.6,
+        47.9,
+        79.8,
+        118.6,
+        165.9
+      ],
+      "optimistic": [
+        32.4,
+        75.3,
+        132.1,
+        207.3,
+        306.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Market",
+        "score": 6,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Technology",
+        "score": 9,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "Limited experience in target market segment"
+      }
+    ]
+  },
+  {
+    "id": "deal-010",
+    "name": "CoverSmart",
+    "tagline": "Micro-insurance for gig economy workers",
+    "industry": "InsurTech",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 12.9,
+    "minInvestment": 9100000,
+    "targetAmount": 1225300000,
+    "raisedAmount": 1225300000,
+    "status": "Funded",
+    "createdAt": "2026-01-22",
+    "views": 2794,
+    "company": {
+      "name": "CoverSmart Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Ahmedabad",
+      "employees": 1611
+    },
+    "financials": {
+      "revenue": 973600000,
+      "growth": 49.5,
+      "ebitdaMargin": 19.2,
+      "burn": 22300000,
+      "valuation": 13736400000,
+      "runway": 29
+    },
+    "roiProjection": {
+      "conservative": [
+        9.3,
+        19.4,
+        30.5,
+        42.7,
+        55.9
+      ],
+      "base": [
+        12.9,
+        27.5,
+        43.9,
+        62.5,
+        83.4
+      ],
+      "optimistic": [
+        18.3,
+        40,
+        65.6,
+        96,
+        131.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 6,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      },
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Team",
+        "score": 7,
+        "note": "Key leadership position currently unfilled"
+      },
+      {
+        "category": "Regulatory",
+        "score": 4,
+        "note": "Cross-border transaction regulations evolving"
+      }
+    ]
+  },
+  {
+    "id": "deal-011",
+    "name": "RupeeFlo",
+    "tagline": "Embedded finance APIs for modern apps",
+    "industry": "Fintech",
+    "stage": "Series C",
+    "risk": "High",
+    "roi": 9.9,
+    "minInvestment": 9000000,
+    "targetAmount": 1331400000,
+    "raisedAmount": 495800000,
+    "status": "Closed",
+    "createdAt": "2025-08-25",
+    "views": 409,
+    "company": {
+      "name": "RupeeFlo Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Noida",
+      "employees": 1364
+    },
+    "financials": {
+      "revenue": 914600000,
+      "growth": 38.6,
+      "ebitdaMargin": 10.5,
+      "burn": 27700000,
+      "valuation": 13469700000,
+      "runway": 30
+    },
+    "roiProjection": {
+      "conservative": [
+        6.4,
+        13.3,
+        20.6,
+        28.3,
+        36.6
+      ],
+      "base": [
+        9.9,
+        20.8,
+        32.7,
+        45.9,
+        60.3
+      ],
+      "optimistic": [
+        13,
+        27.6,
+        44.2,
+        62.9,
+        84
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 8,
+        "note": "Seasonal demand fluctuations in core segment"
+      },
+      {
+        "category": "Regulatory",
+        "score": 7,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-012",
+    "name": "CareNest",
+    "tagline": "Telemedicine platform for tier-2 and tier-3 cities",
+    "industry": "HealthTech",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 8.5,
+    "minInvestment": 41900000,
+    "targetAmount": 1399100000,
+    "raisedAmount": 1399100000,
+    "status": "Funded",
+    "createdAt": "2025-03-16",
+    "views": 2427,
+    "company": {
+      "name": "CareNest Pvt. Ltd.",
+      "founded": 2017,
+      "location": "Pune",
+      "employees": 1420
+    },
+    "financials": {
+      "revenue": 1150300000,
+      "growth": 31.6,
+      "ebitdaMargin": 18,
+      "burn": 59000000,
+      "valuation": 33677000000,
+      "runway": 21
+    },
+    "roiProjection": {
+      "conservative": [
+        6,
+        12.4,
+        19.2,
+        26.4,
+        34
+      ],
+      "base": [
+        8.5,
+        17.7,
+        27.7,
+        38.6,
+        50.4
+      ],
+      "optimistic": [
+        12.8,
+        27.3,
+        43.7,
+        62.1,
+        82.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 3,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "Dependency on third-party APIs for critical functions"
+      },
+      {
+        "category": "Financial",
+        "score": 7,
+        "note": "Revenue concentrated among top 3 clients"
+      }
+    ]
+  },
+  {
+    "id": "deal-013",
+    "name": "SkillForge",
+    "tagline": "Bridging the skill gap with micro-credentials",
+    "industry": "EdTech",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 9.4,
+    "minInvestment": 9300000,
+    "targetAmount": 490700000,
+    "raisedAmount": 155000000,
+    "status": "Closed",
+    "createdAt": "2026-05-29",
+    "views": 3971,
+    "company": {
+      "name": "SkillForge Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Mumbai",
+      "employees": 854
+    },
+    "financials": {
+      "revenue": 961300000,
+      "growth": 21.1,
+      "ebitdaMargin": 3.6,
+      "burn": 32100000,
+      "valuation": 14468500000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        6.6,
+        13.6,
+        21.1,
+        29,
+        37.5
+      ],
+      "base": [
+        9.4,
+        19.7,
+        30.9,
+        43.2,
+        56.7
+      ],
+      "optimistic": [
+        12.9,
+        27.4,
+        43.8,
+        62.3,
+        83.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Team",
+        "score": 6,
+        "note": "Founding team concentrated in single domain"
+      },
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      }
+    ]
+  },
+  {
+    "id": "deal-014",
+    "name": "KhetConnect",
+    "tagline": "Direct market access for small farmers",
+    "industry": "AgriTech",
+    "stage": "Series C",
+    "risk": "High",
+    "roi": 10.5,
+    "minInvestment": 5500000,
+    "targetAmount": 1349100000,
+    "raisedAmount": 1349100000,
+    "status": "Funded",
+    "createdAt": "2025-02-05",
+    "views": 3231,
+    "company": {
+      "name": "KhetConnect Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Noida",
+      "employees": 918
+    },
+    "financials": {
+      "revenue": 350700000,
+      "growth": 44.8,
+      "ebitdaMargin": 2.2,
+      "burn": 15500000,
+      "valuation": 19914800000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        6.7,
+        13.9,
+        21.5,
+        29.7,
+        38.4
+      ],
+      "base": [
+        10.5,
+        22.1,
+        34.9,
+        49.1,
+        64.7
+      ],
+      "optimistic": [
+        15.2,
+        32.8,
+        53,
+        76.3,
+        103.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Team",
+        "score": 8,
+        "note": "High attrition rate in engineering team"
+      },
+      {
+        "category": "Competition",
+        "score": 3,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Market",
+        "score": 8,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Execution",
+        "score": 5,
+        "note": "Product-market fit not fully validated"
+      }
+    ]
+  },
+  {
+    "id": "deal-015",
+    "name": "SolarNova",
+    "tagline": "Making industrial processes zero-emission",
+    "industry": "CleanTech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 18.6,
+    "minInvestment": 1200000,
+    "targetAmount": 56100000,
+    "raisedAmount": 56100000,
+    "status": "Funded",
+    "createdAt": "2024-11-15",
+    "views": 4511,
+    "company": {
+      "name": "SolarNova Pvt. Ltd.",
+      "founded": 2022,
+      "location": "Kolkata",
+      "employees": 89
+    },
+    "financials": {
+      "revenue": 69200000,
+      "growth": 86.7,
+      "ebitdaMargin": -18.1,
+      "burn": 5900000,
+      "valuation": 639100000,
+      "runway": 17
+    },
+    "roiProjection": {
+      "conservative": [
+        12.1,
+        25.6,
+        40.8,
+        57.9,
+        76.9
+      ],
+      "base": [
+        18.6,
+        40.7,
+        66.8,
+        97.9,
+        134.7
+      ],
+      "optimistic": [
+        26.8,
+        60.7,
+        103.8,
+        158.4,
+        227.6
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 7,
+        "note": "Revenue concentrated among top 3 clients"
+      },
+      {
+        "category": "Market",
+        "score": 4,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Price pressure in commoditised segments"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Cross-border transaction regulations evolving"
+      }
+    ]
+  },
+  {
+    "id": "deal-016",
+    "name": "DataForge",
+    "tagline": "Collaborative project management reimagined",
+    "industry": "SaaS",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 21.8,
+    "minInvestment": 3700000,
+    "targetAmount": 68200000,
+    "raisedAmount": 27100000,
+    "status": "Closed",
+    "createdAt": "2026-07-21",
+    "views": 4174,
+    "company": {
+      "name": "DataForge Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Kochi",
+      "employees": 69
+    },
+    "financials": {
+      "revenue": 10700000,
+      "growth": 93.7,
+      "ebitdaMargin": -17.8,
+      "burn": 5600000,
+      "valuation": 589400000,
+      "runway": 20
+    },
+    "roiProjection": {
+      "conservative": [
+        14.4,
+        30.8,
+        49.7,
+        71.2,
+        95.8
+      ],
+      "base": [
+        21.8,
+        48.4,
+        80.7,
+        120.1,
+        168.1
+      ],
+      "optimistic": [
+        32.3,
+        74.9,
+        131.4,
+        206,
+        304.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Execution",
+        "score": 8,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "Limited experience in target market segment"
+      }
+    ]
+  },
+  {
+    "id": "deal-017",
+    "name": "BazaarNow",
+    "tagline": "Fashion marketplace celebrating Indian designers",
+    "industry": "E-Commerce",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 14.2,
+    "minInvestment": 49800000,
+    "targetAmount": 3622900000,
+    "raisedAmount": 1120600000,
+    "status": "Open",
+    "createdAt": "2025-06-18",
+    "views": 3637,
+    "company": {
+      "name": "BazaarNow Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Delhi NCR",
+      "employees": 3176
+    },
+    "financials": {
+      "revenue": 845100000,
+      "growth": 17.2,
+      "ebitdaMargin": 20.5,
+      "burn": 49900000,
+      "valuation": 35417100000,
+      "runway": 48
+    },
+    "roiProjection": {
+      "conservative": [
+        8.9,
+        18.7,
+        29.3,
+        40.9,
+        53.5
+      ],
+      "base": [
+        14.2,
+        30.4,
+        48.9,
+        70.1,
+        94.2
+      ],
+      "optimistic": [
+        21.9,
+        48.5,
+        81,
+        120.6,
+        168.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 6,
+        "note": "Seasonal demand fluctuations in core segment"
+      },
+      {
+        "category": "Competition",
+        "score": 5,
+        "note": "Price pressure in commoditised segments"
+      },
+      {
+        "category": "Execution",
+        "score": 8,
+        "note": "Go-to-market strategy untested in new regions"
+      },
+      {
+        "category": "Technology",
+        "score": 4,
+        "note": "AI model accuracy needs continued improvement"
+      }
+    ]
+  },
+  {
+    "id": "deal-018",
+    "name": "DeliverEase",
+    "tagline": "Warehousing solutions for D2C brands",
+    "industry": "Logistics",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 31.5,
+    "minInvestment": 800000,
+    "targetAmount": 11500000,
+    "raisedAmount": 11500000,
+    "status": "Funded",
+    "createdAt": "2026-05-05",
+    "views": 1990,
+    "company": {
+      "name": "DeliverEase Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Pune",
+      "employees": 8
+    },
+    "financials": {
+      "revenue": 800000,
+      "growth": 49.1,
+      "ebitdaMargin": -31.8,
+      "burn": 1500000,
+      "valuation": 73700000,
+      "runway": 13
+    },
+    "roiProjection": {
+      "conservative": [
+        20.8,
+        45.9,
+        76.2,
+        112.9,
+        157.1
+      ],
+      "base": [
+        31.5,
+        72.9,
+        127.4,
+        199,
+        293.2
+      ],
+      "optimistic": [
+        46.9,
+        115.9,
+        217.2,
+        366.1,
+        584.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Well-funded competitor launched similar product"
+      },
+      {
+        "category": "Market",
+        "score": 2,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Regulatory",
+        "score": 2,
+        "note": "Licensing requirements under government review"
+      },
+      {
+        "category": "Technology",
+        "score": 7,
+        "note": "Core platform requires scaling investment"
+      }
+    ]
+  },
+  {
+    "id": "deal-019",
+    "name": "PropertyPulse",
+    "tagline": "End-to-end rental management platform",
+    "industry": "PropTech",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 8.5,
+    "minInvestment": 7300000,
+    "targetAmount": 1088800000,
+    "raisedAmount": 1088800000,
+    "status": "Funded",
+    "createdAt": "2026-05-16",
+    "views": 2921,
+    "company": {
+      "name": "PropertyPulse Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Hyderabad",
+      "employees": 1971
+    },
+    "financials": {
+      "revenue": 670500000,
+      "growth": 29.4,
+      "ebitdaMargin": 14.8,
+      "burn": 17800000,
+      "valuation": 5297900000,
+      "runway": 30
+    },
+    "roiProjection": {
+      "conservative": [
+        5.9,
+        12.3,
+        18.9,
+        26,
+        33.5
+      ],
+      "base": [
+        8.5,
+        17.7,
+        27.7,
+        38.6,
+        50.4
+      ],
+      "optimistic": [
+        11.7,
+        24.8,
+        39.5,
+        55.8,
+        74.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 7,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Technology",
+        "score": 9,
+        "note": "Legacy system migration partially complete"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Cross-border transaction regulations evolving"
+      }
+    ]
+  },
+  {
+    "id": "deal-020",
+    "name": "InsureWise",
+    "tagline": "Micro-insurance for gig economy workers",
+    "industry": "InsurTech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 10.3,
+    "minInvestment": 7200000,
+    "targetAmount": 443300000,
+    "raisedAmount": 443300000,
+    "status": "Funded",
+    "createdAt": "2026-08-20",
+    "views": 1290,
+    "company": {
+      "name": "InsureWise Pvt. Ltd.",
+      "founded": 2024,
+      "location": "Chennai",
+      "employees": 335
+    },
+    "financials": {
+      "revenue": 128400000,
+      "growth": 67.6,
+      "ebitdaMargin": -0.8,
+      "burn": 13200000,
+      "valuation": 2437300000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        6.3,
+        13,
+        20.1,
+        27.6,
+        35.6
+      ],
+      "base": [
+        10.3,
+        21.7,
+        34.2,
+        48,
+        63.3
+      ],
+      "optimistic": [
+        16.3,
+        35.2,
+        57.2,
+        82.8,
+        112.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Cross-border transaction regulations evolving"
+      },
+      {
+        "category": "Team",
+        "score": 6,
+        "note": "Board composition lacks sector expertise"
+      }
+    ]
+  },
+  {
+    "id": "deal-021",
+    "name": "CashVault",
+    "tagline": "Next-gen payment infrastructure for businesses",
+    "industry": "Fintech",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 14.9,
+    "minInvestment": 9100000,
+    "targetAmount": 227900000,
+    "raisedAmount": 158900000,
+    "status": "Open",
+    "createdAt": "2025-06-23",
+    "views": 1666,
+    "company": {
+      "name": "CashVault Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Noida",
+      "employees": 482
+    },
+    "financials": {
+      "revenue": 93800000,
+      "growth": 54.2,
+      "ebitdaMargin": -1.6,
+      "burn": 6600000,
+      "valuation": 2729900000,
+      "runway": 25
+    },
+    "roiProjection": {
+      "conservative": [
+        8.6,
+        18,
+        28.2,
+        39.3,
+        51.4
+      ],
+      "base": [
+        14.9,
+        32,
+        51.7,
+        74.3,
+        100.3
+      ],
+      "optimistic": [
+        22.5,
+        50.1,
+        83.8,
+        125.2,
+        175.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Regulatory",
+        "score": 4,
+        "note": "Licensing requirements under government review"
+      },
+      {
+        "category": "Financial",
+        "score": 5,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Core platform requires scaling investment"
+      }
+    ]
+  },
+  {
+    "id": "deal-022",
+    "name": "VitalTrack",
+    "tagline": "Digital pharmacy with doorstep delivery",
+    "industry": "HealthTech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 20.6,
+    "minInvestment": 2300000,
+    "targetAmount": 141800000,
+    "raisedAmount": 80800000,
+    "status": "Closed",
+    "createdAt": "2025-07-10",
+    "views": 1911,
+    "company": {
+      "name": "VitalTrack Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Pune",
+      "employees": 70
+    },
+    "financials": {
+      "revenue": 91200000,
+      "growth": 70.1,
+      "ebitdaMargin": -13.9,
+      "burn": 3200000,
+      "valuation": 886000000,
+      "runway": 11
+    },
+    "roiProjection": {
+      "conservative": [
+        13.6,
+        29,
+        46.6,
+        66.5,
+        89.2
+      ],
+      "base": [
+        20.6,
+        45.4,
+        75.4,
+        111.5,
+        155.1
+      ],
+      "optimistic": [
+        30.1,
+        69.2,
+        120.1,
+        186.3,
+        272.4
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 9,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "High attrition rate in engineering team"
+      },
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Burn rate exceeds initial projections"
+      },
+      {
+        "category": "Technology",
+        "score": 7,
+        "note": "AI model accuracy needs continued improvement"
+      }
+    ]
+  },
+  {
+    "id": "deal-023",
+    "name": "PathShala",
+    "tagline": "Gamified learning for young minds",
+    "industry": "EdTech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 20.6,
+    "minInvestment": 4700000,
+    "targetAmount": 257200000,
+    "raisedAmount": 257200000,
+    "status": "Funded",
+    "createdAt": "2025-09-08",
+    "views": 2608,
+    "company": {
+      "name": "PathShala Pvt. Ltd.",
+      "founded": 2022,
+      "location": "Ahmedabad",
+      "employees": 205
+    },
+    "financials": {
+      "revenue": 250100000,
+      "growth": 43.4,
+      "ebitdaMargin": 19.9,
+      "burn": 9100000,
+      "valuation": 2601800000,
+      "runway": 12
+    },
+    "roiProjection": {
+      "conservative": [
+        11.9,
+        25.3,
+        40.3,
+        57.1,
+        75.8
+      ],
+      "base": [
+        20.6,
+        45.4,
+        75.4,
+        111.5,
+        155.1
+      ],
+      "optimistic": [
+        27,
+        61.3,
+        104.8,
+        160,
+        230.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 5,
+        "note": "Dependency on third-party APIs for critical functions"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Large tech company exploring adjacent space"
+      },
+      {
+        "category": "Team",
+        "score": 5,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-024",
+    "name": "AgriPulse",
+    "tagline": "Empowering farmers with data-driven decisions",
+    "industry": "AgriTech",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 24.4,
+    "minInvestment": 300000,
+    "targetAmount": 6800000,
+    "raisedAmount": 800000,
+    "status": "Closed",
+    "createdAt": "2026-03-08",
+    "views": 2897,
+    "company": {
+      "name": "AgriPulse Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Jaipur",
+      "employees": 17
+    },
+    "financials": {
+      "revenue": 3100000,
+      "growth": 45,
+      "ebitdaMargin": -31.5,
+      "burn": 1800000,
+      "valuation": 29800000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        15.6,
+        33.7,
+        54.5,
+        78.7,
+        106.6
+      ],
+      "base": [
+        24.4,
+        54.8,
+        92.5,
+        139.5,
+        197.9
+      ],
+      "optimistic": [
+        34.9,
+        82,
+        145.4,
+        231.1,
+        346.6
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 5,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Market",
+        "score": 2,
+        "note": "Seasonal demand fluctuations in core segment"
+      },
+      {
+        "category": "Team",
+        "score": 8,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-025",
+    "name": "EcoCharge",
+    "tagline": "Water purification tech for rural communities",
+    "industry": "CleanTech",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 13.9,
+    "minInvestment": 32300000,
+    "targetAmount": 1983600000,
+    "raisedAmount": 703200000,
+    "status": "Closed",
+    "createdAt": "2026-04-26",
+    "views": 1095,
+    "company": {
+      "name": "EcoCharge Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Delhi NCR",
+      "employees": 651
+    },
+    "financials": {
+      "revenue": 2603800000,
+      "growth": 37.2,
+      "ebitdaMargin": 28.3,
+      "burn": 38100000,
+      "valuation": 15417900000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        10.3,
+        21.6,
+        34.1,
+        47.9,
+        63.2
+      ],
+      "base": [
+        13.9,
+        29.7,
+        47.8,
+        68.3,
+        91.7
+      ],
+      "optimistic": [
+        20.8,
+        46,
+        76.5,
+        113.3,
+        157.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 2,
+        "note": "Seasonal demand fluctuations in core segment"
+      },
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Competition",
+        "score": 4,
+        "note": "Well-funded competitor launched similar product"
+      },
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Operational scaling challenges in last mile"
+      }
+    ]
+  },
+  {
+    "id": "deal-026",
+    "name": "SyncFlow",
+    "tagline": "API-first infrastructure for developers",
+    "industry": "SaaS",
+    "stage": "Series C",
+    "risk": "Low",
+    "roi": 17.3,
+    "minInvestment": 11400000,
+    "targetAmount": 770800000,
+    "raisedAmount": 443000000,
+    "status": "Closed",
+    "createdAt": "2026-03-19",
+    "views": 779,
+    "company": {
+      "name": "SyncFlow Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Pune",
+      "employees": 898
+    },
+    "financials": {
+      "revenue": 425900000,
+      "growth": 17.4,
+      "ebitdaMargin": 15.9,
+      "burn": 31800000,
+      "valuation": 13204500000,
+      "runway": 29
+    },
+    "roiProjection": {
+      "conservative": [
+        11.6,
+        24.5,
+        39,
+        55.1,
+        73
+      ],
+      "base": [
+        17.3,
+        37.6,
+        61.4,
+        89.3,
+        122.1
+      ],
+      "optimistic": [
+        22.8,
+        50.9,
+        85.3,
+        127.7,
+        179.7
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "Dependency on third-party APIs for critical functions"
+      },
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Go-to-market strategy untested in new regions"
+      }
+    ]
+  },
+  {
+    "id": "deal-027",
+    "name": "DesiMart",
+    "tagline": "Cross-border trade platform for Indian artisans",
+    "industry": "E-Commerce",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 13,
+    "minInvestment": 1200000,
+    "targetAmount": 143400000,
+    "raisedAmount": 143400000,
+    "status": "Funded",
+    "createdAt": "2025-12-26",
+    "views": 4397,
+    "company": {
+      "name": "DesiMart Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Gurugram",
+      "employees": 119
+    },
+    "financials": {
+      "revenue": 53700000,
+      "growth": 84.5,
+      "ebitdaMargin": -14.9,
+      "burn": 5300000,
+      "valuation": 722500000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        7.7,
+        15.9,
+        24.8,
+        34.4,
+        44.7
+      ],
+      "base": [
+        13,
+        27.7,
+        44.3,
+        63,
+        84.2
+      ],
+      "optimistic": [
+        20.7,
+        45.6,
+        75.7,
+        112,
+        155.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Team",
+        "score": 5,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Supply chain depends on single vendor"
+      },
+      {
+        "category": "Competition",
+        "score": 8,
+        "note": "Price pressure in commoditised segments"
+      },
+      {
+        "category": "Market",
+        "score": 7,
+        "note": "Market size dependent on regulatory changes"
+      }
+    ]
+  },
+  {
+    "id": "deal-028",
+    "name": "CargoSync",
+    "tagline": "Warehousing solutions for D2C brands",
+    "industry": "Logistics",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 15.5,
+    "minInvestment": 2200000,
+    "targetAmount": 105200000,
+    "raisedAmount": 36300000,
+    "status": "Open",
+    "createdAt": "2024-10-21",
+    "views": 3561,
+    "company": {
+      "name": "CargoSync Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Jaipur",
+      "employees": 72
+    },
+    "financials": {
+      "revenue": 33200000,
+      "growth": 32.7,
+      "ebitdaMargin": 7.9,
+      "burn": 3400000,
+      "valuation": 786700000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        9.9,
+        20.8,
+        32.8,
+        46,
+        60.5
+      ],
+      "base": [
+        15.5,
+        33.4,
+        54.1,
+        78,
+        105.5
+      ],
+      "optimistic": [
+        21.7,
+        48.1,
+        80.2,
+        119.4,
+        167
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 7,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Regulatory",
+        "score": 5,
+        "note": "New compliance requirements may increase costs"
+      },
+      {
+        "category": "Competition",
+        "score": 6,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Supply chain depends on single vendor"
+      }
+    ]
+  },
+  {
+    "id": "deal-029",
+    "name": "GharSearch",
+    "tagline": "Construction project management simplified",
+    "industry": "PropTech",
+    "stage": "Pre-Series A",
+    "risk": "Medium",
+    "roi": 26.9,
+    "minInvestment": 1200000,
+    "targetAmount": 32400000,
+    "raisedAmount": 17300000,
+    "status": "Closed",
+    "createdAt": "2026-06-23",
+    "views": 2994,
+    "company": {
+      "name": "GharSearch Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Hyderabad",
+      "employees": 17
+    },
+    "financials": {
+      "revenue": 9000000,
+      "growth": 71.3,
+      "ebitdaMargin": -19.9,
+      "burn": 1700000,
+      "valuation": 171200000,
+      "runway": 8
+    },
+    "roiProjection": {
+      "conservative": [
+        15.6,
+        33.6,
+        54.5,
+        78.6,
+        106.5
+      ],
+      "base": [
+        26.9,
+        61,
+        104.4,
+        159.3,
+        229.1
+      ],
+      "optimistic": [
+        40.9,
+        98.5,
+        179.7,
+        294,
+        455.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Technology",
+        "score": 7,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      },
+      {
+        "category": "Team",
+        "score": 8,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-030",
+    "name": "RiskShield",
+    "tagline": "Micro-insurance for gig economy workers",
+    "industry": "InsurTech",
+    "stage": "Series C",
+    "risk": "High",
+    "roi": 16.9,
+    "minInvestment": 10500000,
+    "targetAmount": 938300000,
+    "raisedAmount": 592500000,
+    "status": "Open",
+    "createdAt": "2025-12-17",
+    "views": 1411,
+    "company": {
+      "name": "RiskShield Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Kolkata",
+      "employees": 375
+    },
+    "financials": {
+      "revenue": 837200000,
+      "growth": 37,
+      "ebitdaMargin": 15.7,
+      "burn": 30500000,
+      "valuation": 18518700000,
+      "runway": 23
+    },
+    "roiProjection": {
+      "conservative": [
+        12.5,
+        26.6,
+        42.4,
+        60.2,
+        80.3
+      ],
+      "base": [
+        16.9,
+        36.7,
+        59.8,
+        86.7,
+        118.3
+      ],
+      "optimistic": [
+        26.2,
+        59.3,
+        101,
+        153.6,
+        220
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Burn rate exceeds initial projections"
+      },
+      {
+        "category": "Competition",
+        "score": 6,
+        "note": "Open-source alternatives gaining traction"
+      }
+    ]
+  },
+  {
+    "id": "deal-031",
+    "name": "FinZen",
+    "tagline": "Instant cross-border remittances at zero cost",
+    "industry": "Fintech",
+    "stage": "Pre-Series A",
+    "risk": "High",
+    "roi": 29.4,
+    "minInvestment": 900000,
+    "targetAmount": 32700000,
+    "raisedAmount": 32700000,
+    "status": "Funded",
+    "createdAt": "2025-02-14",
+    "views": 475,
+    "company": {
+      "name": "FinZen Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Jaipur",
+      "employees": 44
+    },
+    "financials": {
+      "revenue": 7200000,
+      "growth": 37.3,
+      "ebitdaMargin": 9.9,
+      "burn": 3200000,
+      "valuation": 99400000,
+      "runway": 11
+    },
+    "roiProjection": {
+      "conservative": [
+        17.3,
+        37.7,
+        61.6,
+        89.6,
+        122.5
+      ],
+      "base": [
+        29.4,
+        67.4,
+        116.7,
+        180.4,
+        262.8
+      ],
+      "optimistic": [
+        40.3,
+        96.8,
+        176,
+        287.2,
+        443.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Supply chain depends on single vendor"
+      },
+      {
+        "category": "Team",
+        "score": 5,
+        "note": "Limited experience in target market segment"
+      },
+      {
+        "category": "Regulatory",
+        "score": 4,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Competition",
+        "score": 5,
+        "note": "Low barriers to entry in core market"
+      }
+    ]
+  },
+  {
+    "id": "deal-032",
+    "name": "HealthBridge",
+    "tagline": "AI diagnostics that save lives and time",
+    "industry": "HealthTech",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 14,
+    "minInvestment": 4600000,
+    "targetAmount": 228400000,
+    "raisedAmount": 34200000,
+    "status": "Closed",
+    "createdAt": "2025-10-05",
+    "views": 3792,
+    "company": {
+      "name": "HealthBridge Pvt. Ltd.",
+      "founded": 2017,
+      "location": "Ahmedabad",
+      "employees": 392
+    },
+    "financials": {
+      "revenue": 60200000,
+      "growth": 47.5,
+      "ebitdaMargin": -7.9,
+      "burn": 17100000,
+      "valuation": 2800300000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        9.4,
+        19.6,
+        30.9,
+        43.1,
+        56.6
+      ],
+      "base": [
+        14,
+        30,
+        48.2,
+        68.9,
+        92.5
+      ],
+      "optimistic": [
+        20.6,
+        45.4,
+        75.3,
+        111.4,
+        154.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 8,
+        "note": "Large tech company exploring adjacent space"
+      },
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Market",
+        "score": 4,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Regulatory",
+        "score": 8,
+        "note": "Data privacy regulations could impact model"
+      }
+    ]
+  },
+  {
+    "id": "deal-033",
+    "name": "VidyaAI",
+    "tagline": "Live cohort-based courses from industry experts",
+    "industry": "EdTech",
+    "stage": "Series C",
+    "risk": "High",
+    "roi": 12.9,
+    "minInvestment": 17100000,
+    "targetAmount": 1344100000,
+    "raisedAmount": 607200000,
+    "status": "Closed",
+    "createdAt": "2026-05-18",
+    "views": 1847,
+    "company": {
+      "name": "VidyaAI Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Noida",
+      "employees": 1322
+    },
+    "financials": {
+      "revenue": 247700000,
+      "growth": 32.7,
+      "ebitdaMargin": 15.6,
+      "burn": 21100000,
+      "valuation": 19470000000,
+      "runway": 36
+    },
+    "roiProjection": {
+      "conservative": [
+        8.9,
+        18.6,
+        29.2,
+        40.6,
+        53.2
+      ],
+      "base": [
+        12.9,
+        27.5,
+        43.9,
+        62.5,
+        83.4
+      ],
+      "optimistic": [
+        20.5,
+        45.2,
+        75,
+        110.9,
+        154.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 6,
+        "note": "Large tech company exploring adjacent space"
+      },
+      {
+        "category": "Market",
+        "score": 9,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Technology",
+        "score": 7,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      }
+    ]
+  },
+  {
+    "id": "deal-034",
+    "name": "CropSync",
+    "tagline": "Soil health analytics for better yields",
+    "industry": "AgriTech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 10.6,
+    "minInvestment": 38800000,
+    "targetAmount": 1167400000,
+    "raisedAmount": 1167400000,
+    "status": "Funded",
+    "createdAt": "2025-02-17",
+    "views": 3709,
+    "company": {
+      "name": "CropSync Pvt. Ltd.",
+      "founded": 2017,
+      "location": "Delhi NCR",
+      "employees": 1669
+    },
+    "financials": {
+      "revenue": 2191600000,
+      "growth": 16.6,
+      "ebitdaMargin": 24.5,
+      "burn": 43800000,
+      "valuation": 10830300000,
+      "runway": 22
+    },
+    "roiProjection": {
+      "conservative": [
+        6.3,
+        12.9,
+        20,
+        27.5,
+        35.4
+      ],
+      "base": [
+        10.6,
+        22.3,
+        35.3,
+        49.6,
+        65.5
+      ],
+      "optimistic": [
+        16.7,
+        36.3,
+        59.1,
+        85.8,
+        116.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "Dependency on third-party APIs for critical functions"
+      },
+      {
+        "category": "Regulatory",
+        "score": 3,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Execution",
+        "score": 9,
+        "note": "Go-to-market strategy untested in new regions"
+      },
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Currency exposure on international revenue"
+      }
+    ]
+  },
+  {
+    "id": "deal-035",
+    "name": "CleanVolt",
+    "tagline": "EV charging network for urban India",
+    "industry": "CleanTech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 24.5,
+    "minInvestment": 2000000,
+    "targetAmount": 73700000,
+    "raisedAmount": 73700000,
+    "status": "Funded",
+    "createdAt": "2026-04-26",
+    "views": 1718,
+    "company": {
+      "name": "CleanVolt Pvt. Ltd.",
+      "founded": 2024,
+      "location": "Gurugram",
+      "employees": 138
+    },
+    "financials": {
+      "revenue": 95200000,
+      "growth": 80.1,
+      "ebitdaMargin": -13.6,
+      "burn": 4000000,
+      "valuation": 606400000,
+      "runway": 23
+    },
+    "roiProjection": {
+      "conservative": [
+        15.4,
+        33.3,
+        53.8,
+        77.6,
+        105
+      ],
+      "base": [
+        24.5,
+        55,
+        93,
+        140.3,
+        199.1
+      ],
+      "optimistic": [
+        38,
+        90.4,
+        162.7,
+        262.4,
+        400
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 3,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Burn rate exceeds initial projections"
+      },
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Core platform requires scaling investment"
+      }
+    ]
+  },
+  {
+    "id": "deal-036",
+    "name": "PipelineIQ",
+    "tagline": "Data analytics platform built for India",
+    "industry": "SaaS",
+    "stage": "Series A",
+    "risk": "Medium",
+    "roi": 16.3,
+    "minInvestment": 1100000,
+    "targetAmount": 125800000,
+    "raisedAmount": 48300000,
+    "status": "Open",
+    "createdAt": "2026-01-23",
+    "views": 2389,
+    "company": {
+      "name": "PipelineIQ Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Hyderabad",
+      "employees": 57
+    },
+    "financials": {
+      "revenue": 97700000,
+      "growth": 67.5,
+      "ebitdaMargin": -17.8,
+      "burn": 7500000,
+      "valuation": 608600000,
+      "runway": 19
+    },
+    "roiProjection": {
+      "conservative": [
+        9.3,
+        19.4,
+        30.5,
+        42.7,
+        55.9
+      ],
+      "base": [
+        16.3,
+        35.3,
+        57.3,
+        82.9,
+        112.8
+      ],
+      "optimistic": [
+        21.8,
+        48.5,
+        80.9,
+        120.4,
+        168.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 5,
+        "note": "Supply chain depends on single vendor"
+      },
+      {
+        "category": "Regulatory",
+        "score": 4,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Technology",
+        "score": 5,
+        "note": "Core platform requires scaling investment"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Market dominated by established incumbents"
+      }
+    ]
+  },
+  {
+    "id": "deal-037",
+    "name": "QuickCart",
+    "tagline": "B2B marketplace connecting manufacturers to retailers",
+    "industry": "E-Commerce",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 23.4,
+    "minInvestment": 2000000,
+    "targetAmount": 144500000,
+    "raisedAmount": 144500000,
+    "status": "Funded",
+    "createdAt": "2025-12-16",
+    "views": 1134,
+    "company": {
+      "name": "QuickCart Pvt. Ltd.",
+      "founded": 2024,
+      "location": "Kochi",
+      "employees": 35
+    },
+    "financials": {
+      "revenue": 27900000,
+      "growth": 78.8,
+      "ebitdaMargin": 8.9,
+      "burn": 5600000,
+      "valuation": 690400000,
+      "runway": 15
+    },
+    "roiProjection": {
+      "conservative": [
+        15.9,
+        34.4,
+        55.7,
+        80.5,
+        109.2
+      ],
+      "base": [
+        23.4,
+        52.3,
+        87.9,
+        131.9,
+        186.1
+      ],
+      "optimistic": [
+        34.4,
+        80.6,
+        142.8,
+        226.3,
+        338.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Team",
+        "score": 5,
+        "note": "Key leadership position currently unfilled"
+      },
+      {
+        "category": "Regulatory",
+        "score": 5,
+        "note": "New compliance requirements may increase costs"
+      },
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "Dependency on third-party APIs for critical functions"
+      }
+    ]
+  },
+  {
+    "id": "deal-038",
+    "name": "RouteOptim",
+    "tagline": "Warehousing solutions for D2C brands",
+    "industry": "Logistics",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 20.6,
+    "minInvestment": 3200000,
+    "targetAmount": 118600000,
+    "raisedAmount": 70400000,
+    "status": "Open",
+    "createdAt": "2024-12-28",
+    "views": 969,
+    "company": {
+      "name": "RouteOptim Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Hyderabad",
+      "employees": 103
+    },
+    "financials": {
+      "revenue": 30100000,
+      "growth": 69.3,
+      "ebitdaMargin": -5.8,
+      "burn": 6800000,
+      "valuation": 657300000,
+      "runway": 17
+    },
+    "roiProjection": {
+      "conservative": [
+        14.6,
+        31.4,
+        50.6,
+        72.6,
+        97.9
+      ],
+      "base": [
+        20.6,
+        45.4,
+        75.4,
+        111.5,
+        155.1
+      ],
+      "optimistic": [
+        30.7,
+        70.8,
+        123.2,
+        191.8,
+        281.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Regulatory",
+        "score": 8,
+        "note": "Cross-border transaction regulations evolving"
+      },
+      {
+        "category": "Competition",
+        "score": 7,
+        "note": "Well-funded competitor launched similar product"
+      },
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Working capital cycle longer than average"
+      }
+    ]
+  },
+  {
+    "id": "deal-039",
+    "name": "RealtyAI",
+    "tagline": "End-to-end rental management platform",
+    "industry": "PropTech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 9.2,
+    "minInvestment": 14100000,
+    "targetAmount": 4978800000,
+    "raisedAmount": 2324200000,
+    "status": "Closed",
+    "createdAt": "2024-10-09",
+    "views": 2661,
+    "company": {
+      "name": "RealtyAI Pvt. Ltd.",
+      "founded": 2024,
+      "location": "Chennai",
+      "employees": 1466
+    },
+    "financials": {
+      "revenue": 1085100000,
+      "growth": 13.2,
+      "ebitdaMargin": 6.4,
+      "burn": 54100000,
+      "valuation": 21227800000,
+      "runway": 43
+    },
+    "roiProjection": {
+      "conservative": [
+        6.6,
+        13.7,
+        21.2,
+        29.2,
+        37.8
+      ],
+      "base": [
+        9.2,
+        19.2,
+        30.2,
+        42.2,
+        55.3
+      ],
+      "optimistic": [
+        13.6,
+        29.1,
+        46.7,
+        66.6,
+        89.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Supply chain depends on single vendor"
+      },
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "Legacy system migration partially complete"
+      },
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Burn rate exceeds initial projections"
+      }
+    ]
+  },
+  {
+    "id": "deal-040",
+    "name": "PolicyPilot",
+    "tagline": "Insurance in 60 seconds with zero paperwork",
+    "industry": "InsurTech",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 14,
+    "minInvestment": 7900000,
+    "targetAmount": 1421100000,
+    "raisedAmount": 1421100000,
+    "status": "Funded",
+    "createdAt": "2026-02-27",
+    "views": 1468,
+    "company": {
+      "name": "PolicyPilot Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Jaipur",
+      "employees": 1519
+    },
+    "financials": {
+      "revenue": 243200000,
+      "growth": 15.7,
+      "ebitdaMargin": 19.3,
+      "burn": 12500000,
+      "valuation": 3752100000,
+      "runway": 15
+    },
+    "roiProjection": {
+      "conservative": [
+        8.5,
+        17.8,
+        27.9,
+        38.8,
+        50.6
+      ],
+      "base": [
+        14,
+        30,
+        48.2,
+        68.9,
+        92.5
+      ],
+      "optimistic": [
+        20.3,
+        44.7,
+        74.1,
+        109.4,
+        152
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "Core platform requires scaling investment"
+      }
+    ]
+  },
+  {
+    "id": "deal-041",
+    "name": "MoneyMint",
+    "tagline": "Democratizing wealth management for millennials",
+    "industry": "Fintech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 17.3,
+    "minInvestment": 1700000,
+    "targetAmount": 163200000,
+    "raisedAmount": 51500000,
+    "status": "Open",
+    "createdAt": "2025-08-05",
+    "views": 4732,
+    "company": {
+      "name": "MoneyMint Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Ahmedabad",
+      "employees": 142
+    },
+    "financials": {
+      "revenue": 16000000,
+      "growth": 37.1,
+      "ebitdaMargin": 13.8,
+      "burn": 5900000,
+      "valuation": 999500000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        10.9,
+        23,
+        36.4,
+        51.3,
+        67.7
+      ],
+      "base": [
+        17.3,
+        37.6,
+        61.4,
+        89.3,
+        122.1
+      ],
+      "optimistic": [
+        24.6,
+        55.2,
+        93.3,
+        140.8,
+        199.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Financial",
+        "score": 6,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Market",
+        "score": 4,
+        "note": "Market dominated by established incumbents"
+      }
+    ]
+  },
+  {
+    "id": "deal-042",
+    "name": "DocConnect",
+    "tagline": "Mental health support accessible to all Indians",
+    "industry": "HealthTech",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 14.3,
+    "minInvestment": 4100000,
+    "targetAmount": 185800000,
+    "raisedAmount": 185800000,
+    "status": "Funded",
+    "createdAt": "2025-07-05",
+    "views": 2022,
+    "company": {
+      "name": "DocConnect Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Kolkata",
+      "employees": 52
+    },
+    "financials": {
+      "revenue": 55900000,
+      "growth": 98.2,
+      "ebitdaMargin": 6.7,
+      "burn": 5300000,
+      "valuation": 234900000,
+      "runway": 12
+    },
+    "roiProjection": {
+      "conservative": [
+        8.2,
+        17,
+        26.5,
+        36.8,
+        48
+      ],
+      "base": [
+        14.3,
+        30.6,
+        49.3,
+        70.7,
+        95.1
+      ],
+      "optimistic": [
+        22,
+        48.9,
+        81.7,
+        121.7,
+        170.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Competition",
+        "score": 7,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Team",
+        "score": 5,
+        "note": "Limited experience in target market segment"
+      }
+    ]
+  },
+  {
+    "id": "deal-043",
+    "name": "GuruCool",
+    "tagline": "Live cohort-based courses from industry experts",
+    "industry": "EdTech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 23.5,
+    "minInvestment": 2700000,
+    "targetAmount": 193500000,
+    "raisedAmount": 193500000,
+    "status": "Funded",
+    "createdAt": "2026-07-27",
+    "views": 1395,
+    "company": {
+      "name": "GuruCool Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Kolkata",
+      "employees": 109
+    },
+    "financials": {
+      "revenue": 75000000,
+      "growth": 69.2,
+      "ebitdaMargin": -16.5,
+      "burn": 3800000,
+      "valuation": 630500000,
+      "runway": 12
+    },
+    "roiProjection": {
+      "conservative": [
+        17.6,
+        38.4,
+        62.7,
+        91.4,
+        125.2
+      ],
+      "base": [
+        23.5,
+        52.5,
+        88.4,
+        132.6,
+        187.3
+      ],
+      "optimistic": [
+        37.4,
+        88.7,
+        159.2,
+        256,
+        389.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 4,
+        "note": "Dependency on third-party APIs for critical functions"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Regulatory",
+        "score": 2,
+        "note": "Pending regulatory approval for key product"
+      }
+    ]
+  },
+  {
+    "id": "deal-044",
+    "name": "KisaanTech",
+    "tagline": "Cold chain logistics for perishable produce",
+    "industry": "AgriTech",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 12.4,
+    "minInvestment": 40400000,
+    "targetAmount": 3195900000,
+    "raisedAmount": 3195900000,
+    "status": "Funded",
+    "createdAt": "2024-11-04",
+    "views": 1521,
+    "company": {
+      "name": "KisaanTech Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Delhi NCR",
+      "employees": 1867
+    },
+    "financials": {
+      "revenue": 2805000000,
+      "growth": 33.4,
+      "ebitdaMargin": 24.1,
+      "burn": 60600000,
+      "valuation": 20655800000,
+      "runway": 27
+    },
+    "roiProjection": {
+      "conservative": [
+        8.2,
+        17,
+        26.6,
+        37,
+        48.2
+      ],
+      "base": [
+        12.4,
+        26.3,
+        42,
+        59.6,
+        79.4
+      ],
+      "optimistic": [
+        18.8,
+        41.2,
+        67.9,
+        99.5,
+        137.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Competition",
+        "score": 6,
+        "note": "Price pressure in commoditised segments"
+      },
+      {
+        "category": "Market",
+        "score": 2,
+        "note": "Seasonal demand fluctuations in core segment"
+      }
+    ]
+  },
+  {
+    "id": "deal-045",
+    "name": "BioEnergy",
+    "tagline": "Wind energy optimization with machine learning",
+    "industry": "CleanTech",
+    "stage": "Pre-Series A",
+    "risk": "Low",
+    "roi": 19,
+    "minInvestment": 800000,
+    "targetAmount": 49800000,
+    "raisedAmount": 22700000,
+    "status": "Open",
+    "createdAt": "2024-12-30",
+    "views": 978,
+    "company": {
+      "name": "BioEnergy Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Hyderabad",
+      "employees": 19
+    },
+    "financials": {
+      "revenue": 6300000,
+      "growth": 78,
+      "ebitdaMargin": -19.6,
+      "burn": 2300000,
+      "valuation": 195400000,
+      "runway": 10
+    },
+    "roiProjection": {
+      "conservative": [
+        13.9,
+        29.7,
+        47.6,
+        68.1,
+        91.4
+      ],
+      "base": [
+        19,
+        41.6,
+        68.5,
+        100.5,
+        138.6
+      ],
+      "optimistic": [
+        27.7,
+        63.2,
+        108.4,
+        166.3,
+        240.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 8,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Execution",
+        "score": 2,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Regulatory",
+        "score": 7,
+        "note": "New compliance requirements may increase costs"
+      }
+    ]
+  },
+  {
+    "id": "deal-046",
+    "name": "CodeCraft",
+    "tagline": "No-code workflow automation for SMBs",
+    "industry": "SaaS",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 8,
+    "minInvestment": 45900000,
+    "targetAmount": 3785500000,
+    "raisedAmount": 3785500000,
+    "status": "Funded",
+    "createdAt": "2025-05-30",
+    "views": 703,
+    "company": {
+      "name": "CodeCraft Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Noida",
+      "employees": 1414
+    },
+    "financials": {
+      "revenue": 2005700000,
+      "growth": 31.3,
+      "ebitdaMargin": 22.8,
+      "burn": 21800000,
+      "valuation": 22831700000,
+      "runway": 32
+    },
+    "roiProjection": {
+      "conservative": [
+        5.5,
+        11.3,
+        17.5,
+        24,
+        30.8
+      ],
+      "base": [
+        8,
+        16.6,
+        26,
+        36,
+        46.9
+      ],
+      "optimistic": [
+        10.6,
+        22.4,
+        35.4,
+        49.8,
+        65.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Revenue concentrated among top 3 clients"
+      },
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Large tech company exploring adjacent space"
+      },
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      },
+      {
+        "category": "Team",
+        "score": 8,
+        "note": "Limited experience in target market segment"
+      }
+    ]
+  },
+  {
+    "id": "deal-047",
+    "name": "UrbanHaat",
+    "tagline": "Sustainable fashion marketplace for conscious buyers",
+    "industry": "E-Commerce",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 25,
+    "minInvestment": 1000000,
+    "targetAmount": 7300000,
+    "raisedAmount": 7300000,
+    "status": "Funded",
+    "createdAt": "2025-06-30",
+    "views": 1719,
+    "company": {
+      "name": "UrbanHaat Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Mumbai",
+      "employees": 16
+    },
+    "financials": {
+      "revenue": 4600000,
+      "growth": 45.9,
+      "ebitdaMargin": -38.4,
+      "burn": 1800000,
+      "valuation": 41500000,
+      "runway": 9
+    },
+    "roiProjection": {
+      "conservative": [
+        17.5,
+        38.1,
+        62.2,
+        90.6,
+        124
+      ],
+      "base": [
+        25,
+        56.3,
+        95.3,
+        144.1,
+        205.2
+      ],
+      "optimistic": [
+        39.5,
+        94.6,
+        171.5,
+        278.7,
+        428.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 7,
+        "note": "Product-market fit not fully validated"
+      },
+      {
+        "category": "Regulatory",
+        "score": 8,
+        "note": "Cross-border transaction regulations evolving"
+      },
+      {
+        "category": "Competition",
+        "score": 6,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Financial",
+        "score": 4,
+        "note": "Revenue concentrated among top 3 clients"
+      }
+    ]
+  },
+  {
+    "id": "deal-048",
+    "name": "LastMileAI",
+    "tagline": "Automated warehouse operations with robotics",
+    "industry": "Logistics",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 18.1,
+    "minInvestment": 7500000,
+    "targetAmount": 212700000,
+    "raisedAmount": 212700000,
+    "status": "Funded",
+    "createdAt": "2025-06-09",
+    "views": 3207,
+    "company": {
+      "name": "LastMileAI Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Jaipur",
+      "employees": 253
+    },
+    "financials": {
+      "revenue": 86800000,
+      "growth": 28.8,
+      "ebitdaMargin": 3.6,
+      "burn": 8000000,
+      "valuation": 2267900000,
+      "runway": 27
+    },
+    "roiProjection": {
+      "conservative": [
+        10.3,
+        21.7,
+        34.3,
+        48.1,
+        63.4
+      ],
+      "base": [
+        18.1,
+        39.5,
+        64.7,
+        94.5,
+        129.7
+      ],
+      "optimistic": [
+        27,
+        61.2,
+        104.7,
+        159.9,
+        230
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 8,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Product-market fit not fully validated"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Data privacy regulations could impact model"
+      }
+    ]
+  },
+  {
+    "id": "deal-049",
+    "name": "PlotBuddy",
+    "tagline": "Commercial real estate analytics platform",
+    "industry": "PropTech",
+    "stage": "Series B",
+    "risk": "Medium",
+    "roi": 10.9,
+    "minInvestment": 7500000,
+    "targetAmount": 433700000,
+    "raisedAmount": 80700000,
+    "status": "Closed",
+    "createdAt": "2024-11-04",
+    "views": 4602,
+    "company": {
+      "name": "PlotBuddy Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Bangalore",
+      "employees": 458
+    },
+    "financials": {
+      "revenue": 131400000,
+      "growth": 27.5,
+      "ebitdaMargin": 6.5,
+      "burn": 15400000,
+      "valuation": 2844100000,
+      "runway": 26
+    },
+    "roiProjection": {
+      "conservative": [
+        6.1,
+        12.6,
+        19.5,
+        26.7,
+        34.5
+      ],
+      "base": [
+        10.9,
+        23,
+        36.4,
+        51.3,
+        67.7
+      ],
+      "optimistic": [
+        16.9,
+        36.6,
+        59.7,
+        86.7,
+        118.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 7,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Execution",
+        "score": 5,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Competition",
+        "score": 4,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Team",
+        "score": 3,
+        "note": "Founding team concentrated in single domain"
+      }
+    ]
+  },
+  {
+    "id": "deal-050",
+    "name": "ClaimFast",
+    "tagline": "Claims processing with AI in under 10 minutes",
+    "industry": "InsurTech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 19.1,
+    "minInvestment": 7500000,
+    "targetAmount": 259600000,
+    "raisedAmount": 101200000,
+    "status": "Closed",
+    "createdAt": "2024-10-23",
+    "views": 1010,
+    "company": {
+      "name": "ClaimFast Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Jaipur",
+      "employees": 155
+    },
+    "financials": {
+      "revenue": 364800000,
+      "growth": 37.1,
+      "ebitdaMargin": 6.7,
+      "burn": 10500000,
+      "valuation": 3435200000,
+      "runway": 13
+    },
+    "roiProjection": {
+      "conservative": [
+        11.7,
+        24.7,
+        39.2,
+        55.4,
+        73.5
+      ],
+      "base": [
+        19.1,
+        41.8,
+        68.9,
+        101.2,
+        139.6
+      ],
+      "optimistic": [
+        27.9,
+        63.5,
+        109.2,
+        167.5,
+        242.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 3,
+        "note": "Limited market penetration in tier-2/3 cities"
+      },
+      {
+        "category": "Technology",
+        "score": 7,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Execution",
+        "score": 4,
+        "note": "Geographic expansion timeline aggressive"
+      }
+    ]
+  },
+  {
+    "id": "deal-051",
+    "name": "LendKaro",
+    "tagline": "Smart savings platform for young professionals",
+    "industry": "Fintech",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 11.6,
+    "minInvestment": 5100000,
+    "targetAmount": 506500000,
+    "raisedAmount": 249600000,
+    "status": "Open",
+    "createdAt": "2025-06-12",
+    "views": 3022,
+    "company": {
+      "name": "LendKaro Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Noida",
+      "employees": 210
+    },
+    "financials": {
+      "revenue": 72800000,
+      "growth": 46.8,
+      "ebitdaMargin": 2.3,
+      "burn": 16100000,
+      "valuation": 2784900000,
+      "runway": 30
+    },
+    "roiProjection": {
+      "conservative": [
+        7.8,
+        16.1,
+        25.2,
+        34.9,
+        45.4
+      ],
+      "base": [
+        11.6,
+        24.5,
+        39,
+        55.1,
+        73.1
+      ],
+      "optimistic": [
+        17.9,
+        38.9,
+        63.7,
+        93,
+        127.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 9,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Team",
+        "score": 5,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Competition",
+        "score": 5,
+        "note": "Price pressure in commoditised segments"
+      }
+    ]
+  },
+  {
+    "id": "deal-052",
+    "name": "PharmaEase",
+    "tagline": "Making preventive health mainstream",
+    "industry": "HealthTech",
+    "stage": "Pre-Series A",
+    "risk": "High",
+    "roi": 23.1,
+    "minInvestment": 1000000,
+    "targetAmount": 17500000,
+    "raisedAmount": 4600000,
+    "status": "Closed",
+    "createdAt": "2026-01-13",
+    "views": 3108,
+    "company": {
+      "name": "PharmaEase Pvt. Ltd.",
+      "founded": 2024,
+      "location": "Noida",
+      "employees": 19
+    },
+    "financials": {
+      "revenue": 9500000,
+      "growth": 32.6,
+      "ebitdaMargin": -15.4,
+      "burn": 2300000,
+      "valuation": 199900000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        15,
+        32.3,
+        52.1,
+        75,
+        101.3
+      ],
+      "base": [
+        23.1,
+        51.5,
+        86.5,
+        129.6,
+        182.7
+      ],
+      "optimistic": [
+        36,
+        85.1,
+        151.7,
+        242.5,
+        365.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 6,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Execution",
+        "score": 7,
+        "note": "Supply chain depends on single vendor"
+      }
+    ]
+  },
+  {
+    "id": "deal-053",
+    "name": "ClassBridge",
+    "tagline": "Gamified learning for young minds",
+    "industry": "EdTech",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 12.6,
+    "minInvestment": 4500000,
+    "targetAmount": 162900000,
+    "raisedAmount": 49300000,
+    "status": "Closed",
+    "createdAt": "2025-09-11",
+    "views": 619,
+    "company": {
+      "name": "ClassBridge Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Gurugram",
+      "employees": 76
+    },
+    "financials": {
+      "revenue": 39200000,
+      "growth": 95.5,
+      "ebitdaMargin": 14.8,
+      "burn": 4300000,
+      "valuation": 853600000,
+      "runway": 10
+    },
+    "roiProjection": {
+      "conservative": [
+        9.2,
+        19.2,
+        30.2,
+        42.2,
+        55.3
+      ],
+      "base": [
+        12.6,
+        26.8,
+        42.8,
+        60.8,
+        81
+      ],
+      "optimistic": [
+        19.2,
+        42,
+        69.2,
+        101.6,
+        140.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 3,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Execution",
+        "score": 9,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Regulatory",
+        "score": 4,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      }
+    ]
+  },
+  {
+    "id": "deal-054",
+    "name": "HarvestIQ",
+    "tagline": "Soil health analytics for better yields",
+    "industry": "AgriTech",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 11.7,
+    "minInvestment": 37800000,
+    "targetAmount": 1734900000,
+    "raisedAmount": 232800000,
+    "status": "Closed",
+    "createdAt": "2025-10-22",
+    "views": 2788,
+    "company": {
+      "name": "HarvestIQ Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Chennai",
+      "employees": 4321
+    },
+    "financials": {
+      "revenue": 1867200000,
+      "growth": 17.9,
+      "ebitdaMargin": 15.3,
+      "burn": 33600000,
+      "valuation": 39624300000,
+      "runway": 43
+    },
+    "roiProjection": {
+      "conservative": [
+        8,
+        16.5,
+        25.8,
+        35.8,
+        46.6
+      ],
+      "base": [
+        11.7,
+        24.8,
+        39.4,
+        55.7,
+        73.9
+      ],
+      "optimistic": [
+        17.5,
+        38.2,
+        62.4,
+        90.9,
+        124.4
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Revenue concentrated among top 3 clients"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "Key leadership position currently unfilled"
+      },
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "Core platform requires scaling investment"
+      },
+      {
+        "category": "Market",
+        "score": 9,
+        "note": "Market size dependent on regulatory changes"
+      }
+    ]
+  },
+  {
+    "id": "deal-055",
+    "name": "WindHarvest",
+    "tagline": "EV charging network for urban India",
+    "industry": "CleanTech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 14.4,
+    "minInvestment": 20100000,
+    "targetAmount": 4784200000,
+    "raisedAmount": 945200000,
+    "status": "Closed",
+    "createdAt": "2025-09-05",
+    "views": 1697,
+    "company": {
+      "name": "WindHarvest Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Jaipur",
+      "employees": 3443
+    },
+    "financials": {
+      "revenue": 2166800000,
+      "growth": 25.3,
+      "ebitdaMargin": 11.9,
+      "burn": 73500000,
+      "valuation": 25484100000,
+      "runway": 31
+    },
+    "roiProjection": {
+      "conservative": [
+        8.4,
+        17.4,
+        27.2,
+        37.8,
+        49.3
+      ],
+      "base": [
+        14.4,
+        30.9,
+        49.7,
+        71.3,
+        95.9
+      ],
+      "optimistic": [
+        19,
+        41.6,
+        68.5,
+        100.6,
+        138.7
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "High attrition rate in engineering team"
+      },
+      {
+        "category": "Market",
+        "score": 6,
+        "note": "Limited market penetration in tier-2/3 cities"
+      },
+      {
+        "category": "Execution",
+        "score": 7,
+        "note": "Geographic expansion timeline aggressive"
+      }
+    ]
+  },
+  {
+    "id": "deal-056",
+    "name": "APIStack",
+    "tagline": "Customer engagement platform with vernacular support",
+    "industry": "SaaS",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 8.6,
+    "minInvestment": 46000000,
+    "targetAmount": 2980800000,
+    "raisedAmount": 2312500000,
+    "status": "Open",
+    "createdAt": "2025-03-09",
+    "views": 562,
+    "company": {
+      "name": "APIStack Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Mumbai",
+      "employees": 3402
+    },
+    "financials": {
+      "revenue": 1230200000,
+      "growth": 18.8,
+      "ebitdaMargin": 19.2,
+      "burn": 77300000,
+      "valuation": 18953400000,
+      "runway": 24
+    },
+    "roiProjection": {
+      "conservative": [
+        5.3,
+        10.9,
+        16.9,
+        23.1,
+        29.7
+      ],
+      "base": [
+        8.6,
+        17.9,
+        28.1,
+        39.1,
+        51.1
+      ],
+      "optimistic": [
+        11.9,
+        25.1,
+        40,
+        56.6,
+        75.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "Dependency on third-party APIs for critical functions"
+      },
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Seasonal demand fluctuations in core segment"
+      },
+      {
+        "category": "Team",
+        "score": 7,
+        "note": "Founding team concentrated in single domain"
+      }
+    ]
+  },
+  {
+    "id": "deal-057",
+    "name": "KiranaMart",
+    "tagline": "Fashion marketplace celebrating Indian designers",
+    "industry": "E-Commerce",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 21.8,
+    "minInvestment": 2700000,
+    "targetAmount": 557000000,
+    "raisedAmount": 118500000,
+    "status": "Closed",
+    "createdAt": "2026-08-13",
+    "views": 1726,
+    "company": {
+      "name": "KiranaMart Pvt. Ltd.",
+      "founded": 2017,
+      "location": "Jaipur",
+      "employees": 226
+    },
+    "financials": {
+      "revenue": 130300000,
+      "growth": 28.7,
+      "ebitdaMargin": 19.4,
+      "burn": 12700000,
+      "valuation": 1366800000,
+      "runway": 25
+    },
+    "roiProjection": {
+      "conservative": [
+        14,
+        29.9,
+        48,
+        68.6,
+        92.1
+      ],
+      "base": [
+        21.8,
+        48.4,
+        80.7,
+        120.1,
+        168.1
+      ],
+      "optimistic": [
+        29.6,
+        68.1,
+        117.9,
+        182.5,
+        266.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 5,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Regulatory",
+        "score": 5,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Supply chain depends on single vendor"
+      },
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Low barriers to entry in core market"
+      }
+    ]
+  },
+  {
+    "id": "deal-058",
+    "name": "PackTrack",
+    "tagline": "Drone delivery for hard-to-reach areas",
+    "industry": "Logistics",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 20.3,
+    "minInvestment": 100000,
+    "targetAmount": 8500000,
+    "raisedAmount": 3300000,
+    "status": "Open",
+    "createdAt": "2026-03-23",
+    "views": 194,
+    "company": {
+      "name": "PackTrack Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Jaipur",
+      "employees": 12
+    },
+    "financials": {
+      "revenue": 4700000,
+      "growth": 48.1,
+      "ebitdaMargin": -14.4,
+      "burn": 800000,
+      "valuation": 65900000,
+      "runway": 9
+    },
+    "roiProjection": {
+      "conservative": [
+        13.4,
+        28.6,
+        45.8,
+        65.4,
+        87.5
+      ],
+      "base": [
+        20.3,
+        44.7,
+        74.1,
+        109.4,
+        152
+      ],
+      "optimistic": [
+        26.4,
+        59.7,
+        101.9,
+        155.2,
+        222.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 2,
+        "note": "Legacy system migration partially complete"
+      },
+      {
+        "category": "Competition",
+        "score": 3,
+        "note": "Well-funded competitor launched similar product"
+      },
+      {
+        "category": "Execution",
+        "score": 7,
+        "note": "Geographic expansion timeline aggressive"
+      }
+    ]
+  },
+  {
+    "id": "deal-059",
+    "name": "RentEase",
+    "tagline": "AI-powered property valuation for buyers",
+    "industry": "PropTech",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 24.7,
+    "minInvestment": 2800000,
+    "targetAmount": 163600000,
+    "raisedAmount": 163600000,
+    "status": "Funded",
+    "createdAt": "2025-02-09",
+    "views": 4401,
+    "company": {
+      "name": "RentEase Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Hyderabad",
+      "employees": 127
+    },
+    "financials": {
+      "revenue": 45600000,
+      "growth": 77.7,
+      "ebitdaMargin": -0.7,
+      "burn": 4600000,
+      "valuation": 413500000,
+      "runway": 17
+    },
+    "roiProjection": {
+      "conservative": [
+        18.5,
+        40.5,
+        66.5,
+        97.4,
+        133.9
+      ],
+      "base": [
+        24.7,
+        55.5,
+        93.9,
+        141.8,
+        201.5
+      ],
+      "optimistic": [
+        39.3,
+        94,
+        170.1,
+        276.2,
+        424
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "Key leadership position currently unfilled"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Market",
+        "score": 9,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Regulatory",
+        "score": 3,
+        "note": "Licensing requirements under government review"
+      }
+    ]
+  },
+  {
+    "id": "deal-060",
+    "name": "SafeGuardAI",
+    "tagline": "Claims processing with AI in under 10 minutes",
+    "industry": "InsurTech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 20.2,
+    "minInvestment": 1700000,
+    "targetAmount": 121100000,
+    "raisedAmount": 35600000,
+    "status": "Open",
+    "createdAt": "2026-04-19",
+    "views": 2657,
+    "company": {
+      "name": "SafeGuardAI Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Chennai",
+      "employees": 68
+    },
+    "financials": {
+      "revenue": 99200000,
+      "growth": 54.7,
+      "ebitdaMargin": 9,
+      "burn": 3000000,
+      "valuation": 796600000,
+      "runway": 10
+    },
+    "roiProjection": {
+      "conservative": [
+        14.7,
+        31.7,
+        51.1,
+        73.4,
+        98.9
+      ],
+      "base": [
+        20.2,
+        44.5,
+        73.7,
+        108.7,
+        150.9
+      ],
+      "optimistic": [
+        28.1,
+        64,
+        110.1,
+        169.1,
+        244.6
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Team",
+        "score": 6,
+        "note": "Founding team concentrated in single domain"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Licensing requirements under government review"
+      }
+    ]
+  },
+  {
+    "id": "deal-061",
+    "name": "WealthGrid",
+    "tagline": "Making digital payments accessible to every Indian",
+    "industry": "Fintech",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 34.4,
+    "minInvestment": 500000,
+    "targetAmount": 5000000,
+    "raisedAmount": 3700000,
+    "status": "Open",
+    "createdAt": "2025-01-05",
+    "views": 4655,
+    "company": {
+      "name": "WealthGrid Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Jaipur",
+      "employees": 13
+    },
+    "financials": {
+      "revenue": 1900000,
+      "growth": 19.9,
+      "ebitdaMargin": 4.1,
+      "burn": 1100000,
+      "valuation": 98500000,
+      "runway": 6
+    },
+    "roiProjection": {
+      "conservative": [
+        21.3,
+        47.2,
+        78.6,
+        116.7,
+        162.9
+      ],
+      "base": [
+        34.4,
+        80.6,
+        142.8,
+        226.3,
+        338.5
+      ],
+      "optimistic": [
+        46.8,
+        115.5,
+        216.3,
+        364.2,
+        581.4
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 4,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Operational scaling challenges in last mile"
+      },
+      {
+        "category": "Team",
+        "score": 7,
+        "note": "Founding team concentrated in single domain"
+      },
+      {
+        "category": "Financial",
+        "score": 5,
+        "note": "Burn rate exceeds initial projections"
+      }
+    ]
+  },
+  {
+    "id": "deal-062",
+    "name": "AyurTech",
+    "tagline": "Streamlining hospital operations with AI",
+    "industry": "HealthTech",
+    "stage": "Growth",
+    "risk": "High",
+    "roi": 10.5,
+    "minInvestment": 34400000,
+    "targetAmount": 4625700000,
+    "raisedAmount": 2417900000,
+    "status": "Closed",
+    "createdAt": "2024-11-15",
+    "views": 1314,
+    "company": {
+      "name": "AyurTech Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Pune",
+      "employees": 2639
+    },
+    "financials": {
+      "revenue": 1841000000,
+      "growth": 30.8,
+      "ebitdaMargin": 16.6,
+      "burn": 88400000,
+      "valuation": 28092800000,
+      "runway": 23
+    },
+    "roiProjection": {
+      "conservative": [
+        6.7,
+        13.9,
+        21.5,
+        29.7,
+        38.4
+      ],
+      "base": [
+        10.5,
+        22.1,
+        34.9,
+        49.1,
+        64.7
+      ],
+      "optimistic": [
+        14.3,
+        30.6,
+        49.2,
+        70.6,
+        94.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 9,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Financial",
+        "score": 4,
+        "note": "Burn rate exceeds initial projections"
+      },
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Team",
+        "score": 3,
+        "note": "Key leadership position currently unfilled"
+      }
+    ]
+  },
+  {
+    "id": "deal-063",
+    "name": "ExamPilot",
+    "tagline": "Bridging the skill gap with micro-credentials",
+    "industry": "EdTech",
+    "stage": "Seed",
+    "risk": "Low",
+    "roi": 28.7,
+    "minInvestment": 800000,
+    "targetAmount": 6800000,
+    "raisedAmount": 1500000,
+    "status": "Open",
+    "createdAt": "2024-12-15",
+    "views": 1180,
+    "company": {
+      "name": "ExamPilot Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Gurugram",
+      "employees": 10
+    },
+    "financials": {
+      "revenue": 3600000,
+      "growth": 11.4,
+      "ebitdaMargin": -1.3,
+      "burn": 1100000,
+      "valuation": 88200000,
+      "runway": 7
+    },
+    "roiProjection": {
+      "conservative": [
+        15.8,
+        34.1,
+        55.2,
+        79.7,
+        108.1
+      ],
+      "base": [
+        28.7,
+        65.6,
+        113.2,
+        174.4,
+        253.1
+      ],
+      "optimistic": [
+        42.2,
+        102.2,
+        187.5,
+        308.8,
+        481.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Regulatory",
+        "score": 5,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Competition",
+        "score": 9,
+        "note": "Well-funded competitor launched similar product"
+      },
+      {
+        "category": "Financial",
+        "score": 4,
+        "note": "Unit economics not yet positive"
+      }
+    ]
+  },
+  {
+    "id": "deal-064",
+    "name": "SoilSense",
+    "tagline": "Farm-to-fork supply chain transparency",
+    "industry": "AgriTech",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 21.1,
+    "minInvestment": 6900000,
+    "targetAmount": 156000000,
+    "raisedAmount": 77400000,
+    "status": "Closed",
+    "createdAt": "2025-11-23",
+    "views": 4719,
+    "company": {
+      "name": "SoilSense Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Delhi NCR",
+      "employees": 176
+    },
+    "financials": {
+      "revenue": 111200000,
+      "growth": 61.7,
+      "ebitdaMargin": 7.2,
+      "burn": 6800000,
+      "valuation": 1434200000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        12.4,
+        26.4,
+        42.2,
+        59.9,
+        79.8
+      ],
+      "base": [
+        21.1,
+        46.7,
+        77.6,
+        115.1,
+        160.4
+      ],
+      "optimistic": [
+        29.8,
+        68.4,
+        118.4,
+        183.4,
+        267.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 4,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Regulatory",
+        "score": 5,
+        "note": "Licensing requirements under government review"
+      },
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "Cybersecurity infrastructure needs strengthening"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Market dominated by established incumbents"
+      }
+    ]
+  },
+  {
+    "id": "deal-065",
+    "name": "GreenMile",
+    "tagline": "Carbon credit marketplace for businesses",
+    "industry": "CleanTech",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 14.1,
+    "minInvestment": 15700000,
+    "targetAmount": 1060100000,
+    "raisedAmount": 468800000,
+    "status": "Closed",
+    "createdAt": "2024-10-05",
+    "views": 4664,
+    "company": {
+      "name": "GreenMile Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Gurugram",
+      "employees": 1757
+    },
+    "financials": {
+      "revenue": 653400000,
+      "growth": 43.6,
+      "ebitdaMargin": 11.1,
+      "burn": 32500000,
+      "valuation": 12217600000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        10.3,
+        21.6,
+        34.2,
+        48,
+        63.2
+      ],
+      "base": [
+        14.1,
+        30.2,
+        48.5,
+        69.5,
+        93.4
+      ],
+      "optimistic": [
+        20,
+        44.1,
+        72.9,
+        107.5,
+        149.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 5,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Competition",
+        "score": 4,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Market",
+        "score": 4,
+        "note": "Market dominated by established incumbents"
+      }
+    ]
+  },
+  {
+    "id": "deal-066",
+    "name": "DevOpsHub",
+    "tagline": "Intelligent document processing at scale",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 18,
+    "minInvestment": 9200000,
+    "targetAmount": 241900000,
+    "raisedAmount": 241900000,
+    "status": "Funded",
+    "createdAt": "2026-01-21",
+    "views": 4567,
+    "company": {
+      "name": "DevOpsHub Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Jaipur",
+      "employees": 151
+    },
+    "financials": {
+      "revenue": 156300000,
+      "growth": 56.2,
+      "ebitdaMargin": 9.6,
+      "burn": 11400000,
+      "valuation": 3730300000,
+      "runway": 26
+    },
+    "roiProjection": {
+      "conservative": [
+        10.1,
+        21.2,
+        33.4,
+        46.8,
+        61.6
+      ],
+      "base": [
+        18,
+        39.2,
+        64.3,
+        93.9,
+        128.8
+      ],
+      "optimistic": [
+        25.4,
+        57.2,
+        97.1,
+        147.1,
+        209.8
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Technology",
+        "score": 9,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Market",
+        "score": 4,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Regulatory",
+        "score": 2,
+        "note": "Licensing requirements under government review"
+      },
+      {
+        "category": "Competition",
+        "score": 7,
+        "note": "Open-source alternatives gaining traction"
+      }
+    ]
+  },
+  {
+    "id": "deal-067",
+    "name": "StyleLoom",
+    "tagline": "Hyper-local commerce for every neighbourhood",
+    "industry": "E-Commerce",
+    "stage": "Series B",
+    "risk": "High",
+    "roi": 15,
+    "minInvestment": 5500000,
+    "targetAmount": 198400000,
+    "raisedAmount": 56300000,
+    "status": "Closed",
+    "createdAt": "2025-08-31",
+    "views": 1329,
+    "company": {
+      "name": "StyleLoom Pvt. Ltd.",
+      "founded": 2022,
+      "location": "Bangalore",
+      "employees": 125
+    },
+    "financials": {
+      "revenue": 80200000,
+      "growth": 28.4,
+      "ebitdaMargin": 10.7,
+      "burn": 14300000,
+      "valuation": 2467600000,
+      "runway": 12
+    },
+    "roiProjection": {
+      "conservative": [
+        10.7,
+        22.4,
+        35.5,
+        49.9,
+        65.9
+      ],
+      "base": [
+        15,
+        32.2,
+        52.1,
+        74.9,
+        101.1
+      ],
+      "optimistic": [
+        22.8,
+        50.8,
+        85.2,
+        127.4,
+        179.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 3,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Technology",
+        "score": 9,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Team",
+        "score": 2,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-068",
+    "name": "FreightBridge",
+    "tagline": "Drone delivery for hard-to-reach areas",
+    "industry": "Logistics",
+    "stage": "Series A",
+    "risk": "High",
+    "roi": 13.1,
+    "minInvestment": 1600000,
+    "targetAmount": 192000000,
+    "raisedAmount": 73900000,
+    "status": "Closed",
+    "createdAt": "2024-11-28",
+    "views": 202,
+    "company": {
+      "name": "FreightBridge Pvt. Ltd.",
+      "founded": 2017,
+      "location": "Gurugram",
+      "employees": 113
+    },
+    "financials": {
+      "revenue": 86500000,
+      "growth": 82.3,
+      "ebitdaMargin": 0.8,
+      "burn": 4600000,
+      "valuation": 677100000,
+      "runway": 20
+    },
+    "roiProjection": {
+      "conservative": [
+        8.6,
+        18,
+        28.2,
+        39.3,
+        51.4
+      ],
+      "base": [
+        13.1,
+        27.9,
+        44.7,
+        63.6,
+        85.1
+      ],
+      "optimistic": [
+        20.3,
+        44.7,
+        74.1,
+        109.5,
+        152
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Pending regulatory approval for key product"
+      },
+      {
+        "category": "Execution",
+        "score": 2,
+        "note": "Go-to-market strategy untested in new regions"
+      },
+      {
+        "category": "Team",
+        "score": 9,
+        "note": "Key leadership position currently unfilled"
+      }
+    ]
+  },
+  {
+    "id": "deal-069",
+    "name": "BuildTech",
+    "tagline": "AI-powered property valuation for buyers",
+    "industry": "PropTech",
+    "stage": "Series A",
+    "risk": "Low",
+    "roi": 20.7,
+    "minInvestment": 4500000,
+    "targetAmount": 179800000,
+    "raisedAmount": 179800000,
+    "status": "Funded",
+    "createdAt": "2026-07-20",
+    "views": 651,
+    "company": {
+      "name": "BuildTech Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Kolkata",
+      "employees": 55
+    },
+    "financials": {
+      "revenue": 33600000,
+      "growth": 85.6,
+      "ebitdaMargin": -2.4,
+      "burn": 6800000,
+      "valuation": 738600000,
+      "runway": 11
+    },
+    "roiProjection": {
+      "conservative": [
+        14.5,
+        31.1,
+        50.1,
+        71.8,
+        96.7
+      ],
+      "base": [
+        20.7,
+        45.7,
+        75.8,
+        112.2,
+        156.2
+      ],
+      "optimistic": [
+        32.1,
+        74.5,
+        130.4,
+        204.4,
+        302
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 7,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Market",
+        "score": 5,
+        "note": "Limited market penetration in tier-2/3 cities"
+      },
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Team",
+        "score": 7,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-070",
+    "name": "InsureBuddy",
+    "tagline": "Claims processing with AI in under 10 minutes",
+    "industry": "InsurTech",
+    "stage": "Seed",
+    "risk": "Low",
+    "roi": 32.6,
+    "minInvestment": 500000,
+    "targetAmount": 15000000,
+    "raisedAmount": 15000000,
+    "status": "Funded",
+    "createdAt": "2025-07-25",
+    "views": 1544,
+    "company": {
+      "name": "InsureBuddy Pvt. Ltd.",
+      "founded": 2019,
+      "location": "Kochi",
+      "employees": 14
+    },
+    "financials": {
+      "revenue": 2900000,
+      "growth": 17.2,
+      "ebitdaMargin": -16.1,
+      "burn": 700000,
+      "valuation": 21400000,
+      "runway": 9
+    },
+    "roiProjection": {
+      "conservative": [
+        19.9,
+        43.7,
+        72.3,
+        106.6,
+        147.7
+      ],
+      "base": [
+        32.6,
+        75.8,
+        133.1,
+        209.2,
+        309.9
+      ],
+      "optimistic": [
+        44.3,
+        108.3,
+        200.7,
+        334,
+        526.4
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 4,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Regulatory",
+        "score": 2,
+        "note": "Cross-border transaction regulations evolving"
+      },
+      {
+        "category": "Technology",
+        "score": 3,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Team",
+        "score": 4,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-071",
+    "name": "NiveshPro",
+    "tagline": "Making digital payments accessible to every Indian",
+    "industry": "Fintech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 7.4,
+    "minInvestment": 39500000,
+    "targetAmount": 4244100000,
+    "raisedAmount": 1946900000,
+    "status": "Closed",
+    "createdAt": "2025-02-24",
+    "views": 3499,
+    "company": {
+      "name": "NiveshPro Pvt. Ltd.",
+      "founded": 2023,
+      "location": "Kochi",
+      "employees": 4928
+    },
+    "financials": {
+      "revenue": 1512600000,
+      "growth": 36,
+      "ebitdaMargin": 12.2,
+      "burn": 34600000,
+      "valuation": 38280600000,
+      "runway": 34
+    },
+    "roiProjection": {
+      "conservative": [
+        4.1,
+        8.5,
+        13,
+        17.6,
+        22.5
+      ],
+      "base": [
+        7.4,
+        15.3,
+        23.9,
+        33.1,
+        42.9
+      ],
+      "optimistic": [
+        10.3,
+        21.6,
+        34.1,
+        47.9,
+        63.2
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 4,
+        "note": "Low barriers to entry in core market"
+      },
+      {
+        "category": "Regulatory",
+        "score": 6,
+        "note": "Data privacy regulations could impact model"
+      },
+      {
+        "category": "Team",
+        "score": 8,
+        "note": "Founding team concentrated in single domain"
+      },
+      {
+        "category": "Execution",
+        "score": 8,
+        "note": "Geographic expansion timeline aggressive"
+      }
+    ]
+  },
+  {
+    "id": "deal-072",
+    "name": "WellnessIQ",
+    "tagline": "Making preventive health mainstream",
+    "industry": "HealthTech",
+    "stage": "Series B",
+    "risk": "Low",
+    "roi": 12.8,
+    "minInvestment": 7400000,
+    "targetAmount": 512200000,
+    "raisedAmount": 512200000,
+    "status": "Funded",
+    "createdAt": "2026-02-10",
+    "views": 602,
+    "company": {
+      "name": "WellnessIQ Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Mumbai",
+      "employees": 463
+    },
+    "financials": {
+      "revenue": 217400000,
+      "growth": 28.5,
+      "ebitdaMargin": -8.4,
+      "burn": 16100000,
+      "valuation": 2495700000,
+      "runway": 24
+    },
+    "roiProjection": {
+      "conservative": [
+        7.2,
+        14.8,
+        23.1,
+        31.9,
+        41.4
+      ],
+      "base": [
+        12.8,
+        27.2,
+        43.5,
+        61.9,
+        82.6
+      ],
+      "optimistic": [
+        19.3,
+        42.4,
+        69.9,
+        102.8,
+        141.9
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Team",
+        "score": 9,
+        "note": "Limited experience in target market segment"
+      },
+      {
+        "category": "Market",
+        "score": 2,
+        "note": "Market dominated by established incumbents"
+      },
+      {
+        "category": "Financial",
+        "score": 4,
+        "note": "Unit economics not yet positive"
+      },
+      {
+        "category": "Regulatory",
+        "score": 8,
+        "note": "Pending regulatory approval for key product"
+      }
+    ]
+  },
+  {
+    "id": "deal-073",
+    "name": "StudyMate",
+    "tagline": "Upskilling platform for working professionals",
+    "industry": "EdTech",
+    "stage": "Series C",
+    "risk": "Medium",
+    "roi": 10.3,
+    "minInvestment": 14000000,
+    "targetAmount": 1461600000,
+    "raisedAmount": 527600000,
+    "status": "Open",
+    "createdAt": "2025-05-01",
+    "views": 370,
+    "company": {
+      "name": "StudyMate Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Bangalore",
+      "employees": 952
+    },
+    "financials": {
+      "revenue": 397800000,
+      "growth": 39.7,
+      "ebitdaMargin": 11.2,
+      "burn": 31000000,
+      "valuation": 5974600000,
+      "runway": 32
+    },
+    "roiProjection": {
+      "conservative": [
+        7.1,
+        14.7,
+        22.9,
+        31.6,
+        41
+      ],
+      "base": [
+        10.3,
+        21.7,
+        34.2,
+        48,
+        63.3
+      ],
+      "optimistic": [
+        16.1,
+        34.7,
+        56.4,
+        81.5,
+        110.7
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 6,
+        "note": "Geographic expansion timeline aggressive"
+      },
+      {
+        "category": "Market",
+        "score": 2,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "AI model accuracy needs continued improvement"
+      },
+      {
+        "category": "Financial",
+        "score": 9,
+        "note": "Revenue concentrated among top 3 clients"
+      }
+    ]
+  },
+  {
+    "id": "deal-074",
+    "name": "MandiDirect",
+    "tagline": "Cold chain logistics for perishable produce",
+    "industry": "AgriTech",
+    "stage": "Pre-Series A",
+    "risk": "Low",
+    "roi": 23.5,
+    "minInvestment": 2300000,
+    "targetAmount": 35300000,
+    "raisedAmount": 31500000,
+    "status": "Open",
+    "createdAt": "2025-05-26",
+    "views": 1531,
+    "company": {
+      "name": "MandiDirect Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Kochi",
+      "employees": 23
+    },
+    "financials": {
+      "revenue": 14500000,
+      "growth": 73.6,
+      "ebitdaMargin": -16.8,
+      "burn": 2400000,
+      "valuation": 197500000,
+      "runway": 8
+    },
+    "roiProjection": {
+      "conservative": [
+        17.2,
+        37.3,
+        60.8,
+        88.4,
+        120.7
+      ],
+      "base": [
+        23.5,
+        52.5,
+        88.4,
+        132.6,
+        187.3
+      ],
+      "optimistic": [
+        32.4,
+        75.4,
+        132.3,
+        207.6,
+        307.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 9,
+        "note": "Market size dependent on regulatory changes"
+      },
+      {
+        "category": "Financial",
+        "score": 6,
+        "note": "Currency exposure on international revenue"
+      },
+      {
+        "category": "Competition",
+        "score": 7,
+        "note": "Price pressure in commoditised segments"
+      },
+      {
+        "category": "Technology",
+        "score": 8,
+        "note": "AI model accuracy needs continued improvement"
+      }
+    ]
+  },
+  {
+    "id": "deal-075",
+    "name": "AquaPure",
+    "tagline": "Smart grid solutions for renewable energy",
+    "industry": "CleanTech",
+    "stage": "Pre-Series A",
+    "risk": "High",
+    "roi": 20.3,
+    "minInvestment": 2400000,
+    "targetAmount": 24500000,
+    "raisedAmount": 22000000,
+    "status": "Open",
+    "createdAt": "2025-04-02",
+    "views": 2059,
+    "company": {
+      "name": "AquaPure Pvt. Ltd.",
+      "founded": 2016,
+      "location": "Chennai",
+      "employees": 32
+    },
+    "financials": {
+      "revenue": 9100000,
+      "growth": 37.4,
+      "ebitdaMargin": -3.1,
+      "burn": 3100000,
+      "valuation": 112600000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        13.6,
+        29.1,
+        46.6,
+        66.5,
+        89.2
+      ],
+      "base": [
+        20.3,
+        44.7,
+        74.1,
+        109.4,
+        152
+      ],
+      "optimistic": [
+        31.7,
+        73.4,
+        128.3,
+        200.6,
+        295.7
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 4,
+        "note": "Open-source alternatives gaining traction"
+      },
+      {
+        "category": "Market",
+        "score": 8,
+        "note": "Customer acquisition cost trending upward"
+      },
+      {
+        "category": "Execution",
+        "score": 2,
+        "note": "Product-market fit not fully validated"
+      },
+      {
+        "category": "Team",
+        "score": 7,
+        "note": "High attrition rate in engineering team"
+      }
+    ]
+  },
+  {
+    "id": "deal-076",
+    "name": "AnalytiQ",
+    "tagline": "Customer engagement platform with vernacular support",
+    "industry": "SaaS",
+    "stage": "Growth",
+    "risk": "Medium",
+    "roi": 9,
+    "minInvestment": 18100000,
+    "targetAmount": 3059700000,
+    "raisedAmount": 2348700000,
+    "status": "Open",
+    "createdAt": "2024-11-24",
+    "views": 460,
+    "company": {
+      "name": "AnalytiQ Pvt. Ltd.",
+      "founded": 2020,
+      "location": "Noida",
+      "employees": 3739
+    },
+    "financials": {
+      "revenue": 2582400000,
+      "growth": 17.1,
+      "ebitdaMargin": 22,
+      "burn": 84300000,
+      "valuation": 13377500000,
+      "runway": 33
+    },
+    "roiProjection": {
+      "conservative": [
+        6.7,
+        14,
+        21.6,
+        29.9,
+        38.6
+      ],
+      "base": [
+        9,
+        18.8,
+        29.5,
+        41.2,
+        53.9
+      ],
+      "optimistic": [
+        11.9,
+        25.2,
+        40,
+        56.7,
+        75.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Cross-border transaction regulations evolving"
+      },
+      {
+        "category": "Technology",
+        "score": 6,
+        "note": "Legacy system migration partially complete"
+      },
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Well-funded competitor launched similar product"
+      }
+    ]
+  },
+  {
+    "id": "deal-077",
+    "name": "TradeBox",
+    "tagline": "Hyper-local commerce for every neighbourhood",
+    "industry": "E-Commerce",
+    "stage": "Seed",
+    "risk": "Medium",
+    "roi": 27,
+    "minInvestment": 500000,
+    "targetAmount": 8700000,
+    "raisedAmount": 2900000,
+    "status": "Open",
+    "createdAt": "2026-03-19",
+    "views": 2090,
+    "company": {
+      "name": "TradeBox Pvt. Ltd.",
+      "founded": 2018,
+      "location": "Delhi NCR",
+      "employees": 15
+    },
+    "financials": {
+      "revenue": 4900000,
+      "growth": 11.6,
+      "ebitdaMargin": -31.3,
+      "burn": 1500000,
+      "valuation": 24200000,
+      "runway": 16
+    },
+    "roiProjection": {
+      "conservative": [
+        19.7,
+        43.3,
+        71.6,
+        105.4,
+        145.8
+      ],
+      "base": [
+        27,
+        61.3,
+        104.8,
+        160.1,
+        230.4
+      ],
+      "optimistic": [
+        41.9,
+        101.2,
+        185.4,
+        304.9,
+        474.3
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Market",
+        "score": 9,
+        "note": "Limited market penetration in tier-2/3 cities"
+      },
+      {
+        "category": "Financial",
+        "score": 4,
+        "note": "Working capital cycle longer than average"
+      },
+      {
+        "category": "Execution",
+        "score": 3,
+        "note": "Supply chain depends on single vendor"
+      }
+    ]
+  },
+  {
+    "id": "deal-078",
+    "name": "WareHaus",
+    "tagline": "Same-day delivery infrastructure at scale",
+    "industry": "Logistics",
+    "stage": "Pre-Series A",
+    "risk": "High",
+    "roi": 16.7,
+    "minInvestment": 700000,
+    "targetAmount": 23400000,
+    "raisedAmount": 8700000,
+    "status": "Closed",
+    "createdAt": "2025-09-26",
+    "views": 776,
+    "company": {
+      "name": "WareHaus Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Mumbai",
+      "employees": 18
+    },
+    "financials": {
+      "revenue": 16500000,
+      "growth": 28.4,
+      "ebitdaMargin": -23.6,
+      "burn": 3100000,
+      "valuation": 114700000,
+      "runway": 18
+    },
+    "roiProjection": {
+      "conservative": [
+        11.9,
+        25.1,
+        40,
+        56.5,
+        75.1
+      ],
+      "base": [
+        16.7,
+        36.2,
+        58.9,
+        85.5,
+        116.4
+      ],
+      "optimistic": [
+        22.9,
+        51,
+        85.5,
+        128,
+        180.1
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Execution",
+        "score": 9,
+        "note": "Product-market fit not fully validated"
+      },
+      {
+        "category": "Regulatory",
+        "score": 9,
+        "note": "Licensing requirements under government review"
+      },
+      {
+        "category": "Competition",
+        "score": 3,
+        "note": "Price pressure in commoditised segments"
+      }
+    ]
+  },
+  {
+    "id": "deal-079",
+    "name": "SpaceMatch",
+    "tagline": "AI-powered property valuation for buyers",
+    "industry": "PropTech",
+    "stage": "Growth",
+    "risk": "Low",
+    "roi": 8.5,
+    "minInvestment": 12100000,
+    "targetAmount": 4357500000,
+    "raisedAmount": 2444800000,
+    "status": "Closed",
+    "createdAt": "2025-10-06",
+    "views": 618,
+    "company": {
+      "name": "SpaceMatch Pvt. Ltd.",
+      "founded": 2021,
+      "location": "Kochi",
+      "employees": 1856
+    },
+    "financials": {
+      "revenue": 2111800000,
+      "growth": 36.9,
+      "ebitdaMargin": 18.8,
+      "burn": 47800000,
+      "valuation": 35984100000,
+      "runway": 20
+    },
+    "roiProjection": {
+      "conservative": [
+        5.7,
+        11.7,
+        18.1,
+        24.8,
+        31.9
+      ],
+      "base": [
+        8.5,
+        17.7,
+        27.7,
+        38.6,
+        50.4
+      ],
+      "optimistic": [
+        11.4,
+        24.1,
+        38.2,
+        54,
+        71.5
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Financial",
+        "score": 8,
+        "note": "Burn rate exceeds initial projections"
+      },
+      {
+        "category": "Technology",
+        "score": 9,
+        "note": "Core platform requires scaling investment"
+      },
+      {
+        "category": "Market",
+        "score": 6,
+        "note": "Limited market penetration in tier-2/3 cities"
+      }
+    ]
+  },
+  {
+    "id": "deal-080",
+    "name": "LifeShield",
+    "tagline": "Insurance in 60 seconds with zero paperwork",
+    "industry": "InsurTech",
+    "stage": "Seed",
+    "risk": "High",
+    "roi": 30.5,
+    "minInvestment": 300000,
+    "targetAmount": 14200000,
+    "raisedAmount": 14200000,
+    "status": "Funded",
+    "createdAt": "2026-03-27",
+    "views": 1031,
+    "company": {
+      "name": "LifeShield Pvt. Ltd.",
+      "founded": 2015,
+      "location": "Mumbai",
+      "employees": 15
+    },
+    "financials": {
+      "revenue": 1200000,
+      "growth": 34.4,
+      "ebitdaMargin": -3,
+      "burn": 1900000,
+      "valuation": 97500000,
+      "runway": 10
+    },
+    "roiProjection": {
+      "conservative": [
+        18,
+        39.2,
+        64.3,
+        93.8,
+        128.7
+      ],
+      "base": [
+        30.5,
+        70.3,
+        122.2,
+        190,
+        278.5
+      ],
+      "optimistic": [
+        45.8,
+        112.4,
+        209.6,
+        351.3,
+        557.7
+      ]
+    },
+    "riskFactors": [
+      {
+        "category": "Competition",
+        "score": 2,
+        "note": "Well-funded competitor launched similar product"
+      },
+      {
+        "category": "Team",
+        "score": 6,
+        "note": "Board composition lacks sector expertise"
+      },
+      {
+        "category": "Financial",
+        "score": 5,
+        "note": "Revenue concentrated among top 3 clients"
+      },
+      {
+        "category": "Execution",
+        "score": 8,
+        "note": "Geographic expansion timeline aggressive"
+      }
+    ]
+  }
+]
