@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { useAppDispatch, useAppSelector } from '@/src/store/hooks';
 import { fetchAllDeals } from '@/src/store/dealsSlice';
 import { fetchInvestors, fetchAllInvestments } from '@/src/store/investorSlice';
@@ -19,6 +20,7 @@ interface HoldingRow {
 }
 
 export default function InvestmentsPage() {
+  const router = useRouter();
   const dispatch = useAppDispatch();
   const { savedDealIds, toggle, remove, clear, isInterested } = useInterests();
   const allDeals = useAppSelector((s) => s.deals.allDeals);
@@ -133,7 +135,7 @@ export default function InvestmentsPage() {
           <EmptyState
             title="No saved deals"
             description="Browse the Deal Explorer and bookmark deals you're interested in."
-            action={{ label: 'Explore Deals', onClick: () => {} }}
+            action={{ label: 'Explore Deals', onClick: () => router.push('/deals') }}
           />
         )}
 

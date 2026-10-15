@@ -1,4 +1,4 @@
-let errorRate = 0.04;
+let errorRate = 0;
 
 export function setErrorRate(rate: number): void {
   errorRate = Math.max(0, Math.min(1, rate));
@@ -12,7 +12,7 @@ export function simulatedFetch<T>(
   fn: () => T,
   signal?: AbortSignal,
 ): Promise<T> {
-  const delayMs = 300 + Math.random() * 500;
+  const delayMs = 50 + Math.random() * 50;
 
   return new Promise((resolve, reject) => {
     if (signal?.aborted) {
