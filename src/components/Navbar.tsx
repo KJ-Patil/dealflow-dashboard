@@ -99,13 +99,6 @@ export function Navbar() {
           </div>
 
           <div className="flex items-center gap-2">
-            {/* User name */}
-            {userName && (
-              <span className="hidden sm:inline text-sm text-content-dim">
-                {userName}
-              </span>
-            )}
-
             <button
               onClick={onToggleTheme}
               className="p-2 rounded-lg text-content-dim hover:text-content hover:bg-surface-dim transition-colors"
@@ -113,6 +106,13 @@ export function Navbar() {
             >
               {theme === 'dark' ? <SunIcon /> : <MoonIcon />}
             </button>
+
+            {/* User name */}
+            {userName && (
+              <span className="hidden sm:inline text-sm text-content-dim">
+                {userName}
+              </span>
+            )}
 
             {/* Logout */}
             <button
