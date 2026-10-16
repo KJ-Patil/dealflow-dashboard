@@ -3,7 +3,7 @@ import { Suspense } from 'react';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 import { Providers } from '@/src/components/Providers';
-import { Navbar } from '@/src/components/Navbar';
+import { LayoutShell } from '@/src/components/LayoutShell';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -37,10 +37,9 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
       <body className="min-h-full flex flex-col bg-surface text-content">
         <Suspense>
           <Providers>
-            <Navbar />
-            <main className="flex-1 w-full max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
+            <LayoutShell>
               {children}
-            </main>
+            </LayoutShell>
           </Providers>
         </Suspense>
       </body>

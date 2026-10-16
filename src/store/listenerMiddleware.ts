@@ -48,4 +48,22 @@ listenerMiddleware.startListening({
   },
 });
 
+listenerMiddleware.startListening({
+  predicate: (action) =>
+    typeof action.type === 'string' &&
+    (action.type === 'ui/login' || action.type === 'ui/logout' || action.type === 'ui/hydrateAuth'),
+  effect: (_, api) => {
+    const state = api.getState() as { ui: { isLoggedIn: boolean; userName: string | null } };
+    try {
+      if (state.ui.isLoggedIn && state.ui.userName) {
+        localStorage.setItem('auth', JSON.stringify({ userName: state.ui.userName }));
+      } else {
+        localStorage.removeItem('auth');
+      }
+    } catch {
+      // SSR guard
+    }
+  },
+});
+
 export default listenerMiddleware;
